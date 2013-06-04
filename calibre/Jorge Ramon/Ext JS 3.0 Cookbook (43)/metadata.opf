@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5937e601-180e-4238-881c-f620144e2852</dc:identifier>
+        <dc:title>Ext JS 3.0 Cookbook</dc:title>
+        <dc:creator opf:file-as="Ramon, Jorge" opf:role="aut">Jorge Ramon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-19T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;Jorge Ramon Jorge Ramon is the Vice President of Development for Taladro Systems LLC, where he has led the design and development of a number of software products for the law industry-including QwikTime(tm) and LawDrill(tm). Jorge has over 16 years of experience as a software developer and has also worked creating web applications, search engines, and automatic-control software. He actively contributes to the software development community through his MiamiCoder.com.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Jorge Ramon&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Jorge Ramon is the Vice President of Development for Taladro Systems LLC, where he has led the design and development of a number of software products for the law industry-including QwikTime(tm) and LawDrill(tm). &lt;/p&gt;&lt;p&gt;Jorge has over 16 years of experience as a software developer and has also worked creating web applications, search engines, and automatic-control software. He actively contributes to the software development community through his &lt;strong&gt;MiamiCoder.com&lt;/strong&gt;.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Jorge Ramon&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Jorge Ramon is the Vice President of Development for Taladro Systems LLC, where he has led the design and development of a number of software products for the law industry-including QwikTime(tm) and LawDrill(tm).&lt;/p&gt;&lt;p&gt;Jorge has over 16 years of experience as a software developer and has also worked creating web applications, search engines, and automatic-control software. He actively contributes to the software development community through his &lt;strong&gt;MiamiCoder.com&lt;/strong&gt;.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">4042382</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1847198708</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781847198709</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>javascript</dc:subject>
+        <meta content="{&quot;Jorge Ramon&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="前端技术" name="calibre:series"/>
+        <meta content="9" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-06-04T05:20:15+00:00" name="calibre:timestamp"/>
+        <meta content="Ext JS 3.0 Cookbook" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

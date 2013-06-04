@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">877442ac-c7fe-470c-88ff-230705cd814f</dc:identifier>
+        <dc:title>代码阅读方法与实践</dc:title>
+        <dc:creator opf:file-as="Spinellis, Diomidis" opf:role="aut">Diomidis Spinellis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-03-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;代码阅读有自身的一套技能，重要的是能够确定什么时候使用哪项技术。本书中，作者使用600多个现实的例子，向读者展示如何区分好的（和坏的）代码，如何阅读，应该注意什么，以及如何使用这些知识改进自己的代码。养成阅读高品质代码的习惯，可以提高编写代码的能力。   &lt;br&gt;    阅读代码是程序员的基本技能，同时也是软件开发、维护、演进、审查和重用过程中不可或缺的组成部分。本书首次将阅读代码作为一项独立课题，系统性地加以论述。本书引用的代码均取材于开放源码项目——所有程序员都应该珍视的宝库。本书围绕代码阅读，详细论述了相关的知识与技能。“他山之石、可以攻玉”，通过仔细阅读并学习本书，可以快速地提高读者代码阅读的技能与技巧，进而从现有的优秀代码、算法、构架、设计中汲取营养，提高自身的开发与设计能力。  &lt;br&gt;    本书适用于对程序设计的基本知识有一定了解，并想进一步提高自身开发能力的读者。&lt;/p&gt;</dc:description>
+        <dc:publisher>清华大学出版社</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">1151672</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787302080725</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>代码规范</dc:subject>
+        <meta content="{&quot;Diomidis Spinellis&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="编程素养" name="calibre:series"/>
+        <meta content="4" name="calibre:series_index"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2013-06-04T01:38:35+00:00" name="calibre:timestamp"/>
+        <meta content="代码阅读方法与实践" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

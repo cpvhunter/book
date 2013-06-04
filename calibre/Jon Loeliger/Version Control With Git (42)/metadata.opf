@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0d4e7d50-6496-4bf9-97d3-ee224ad42498</dc:identifier>
+        <dc:title>Version Control With Git</dc:title>
+        <dc:creator opf:file-as="Loeliger, Jon" opf:role="aut">Jon Loeliger</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-10T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Version Control with Git takes you step-by-step through ways to track, merge, and manage software projects, using this highly flexible, open source version control system. Git permits virtually an infinite variety of methods for development and collaboration. Created by Linus Torvalds to manage development of the Linux kernel, it's become the principal tool for distributed version control. But Git's flexibility also means that some users don't understand how to use it to their best advantage. Version Control with Git offers tutorials on the most effective ways to use it, as well as friendly yet rigorous advice to help you navigate Git's many functions. With this book, you will: * Learn how to use Git in several real-world development environments * Gain insight into Git's common-use cases, initial tasks, and basic functions * Understand how to use Git for both centralized and distributed version control * Use Git to manage patches, diffs, merges, and conflicts * Acquire advanced techniques such as rebasing, hooks, and ways to handle submodules (subprojects) * Learn how to use Git with Subversion Git has earned the respect of developers around the world. Find out how you can benefit from this amazing tool with Version Control with Git.&lt;/p&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">3405742</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">8184047320</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780596520120</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>git</dc:subject>
+        <meta content="{&quot;Jon Loeliger&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="version_control" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-06-04T05:17:42+00:00" name="calibre:timestamp"/>
+        <meta content="Version Control With Git" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">29</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8fc06a25-c5a4-4728-8a1b-7b1bb3a26861</dc:identifier>
+        <dc:title>约会倍增术</dc:title>
+        <dc:creator opf:file-as="Deangelo, David" opf:role="aut">David Deangelo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;你在这本书里所学到的东西都是我花了几年时间才得到的。&lt;br&gt;把妹，不像打开电灯开关那样简单。&lt;br&gt;把妹，就像试图学习乐器。需要的是练习。起初也许一切一团糟，而且有时你的练习并没有让你带来提升。&lt;br&gt;但如果你坚持，最终定能演奏出美妙的音乐。并且你也会创作自己的音乐。那时你会发现，你已经成为了一位大师。&lt;br&gt;所以坚持阅读这本书，并且把它当作参考手册。经常回头在这里寻找你的答案，重新体会你想掌握消化的部分。最重要的是，在你成功之前，不要放弃本书。&lt;/p&gt;</dc:description>
+        <dc:identifier opf:scheme="DOUBAN">6811406</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780749459253</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>心理学</dc:subject>
+        <dc:subject>约会</dc:subject>
+        <meta content="{&quot;David Deangelo&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="dating" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-06-04T04:25:42+00:00" name="calibre:timestamp"/>
+        <meta content="约会倍增术" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

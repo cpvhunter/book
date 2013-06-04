@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8c3b311e-384a-423c-b442-e2a4f407a570</dc:identifier>
+        <dc:title>代码之美</dc:title>
+        <dc:creator opf:file-as="Oram, Andy &amp; Wilson, Grey" opf:role="aut">Andy Oram</dc:creator>
+        <dc:creator opf:file-as="Oram, Andy &amp; Wilson, Grey" opf:role="aut">Grey Wilson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-05-27T01:42:22+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;《代码之美》介绍了人类在一个奋斗领域中的创造性和灵活性：计算机系统的开发领域。在每章中的漂亮代码都是来自独特解决方案的发现，而这种发现是来源于作者超越既定边界的远见卓识，并且识别出被多数人忽视的需求以及找出令人叹为观止的问题解决方案。&lt;br&gt;《代码之美》33章，有38位作者，每位作者贡献一章。每位作者都将自己心目中对于“美丽的代码”的认识浓缩在一章当中，张力十足。38位大牛，每个人对代码之美都有自己独特的认识，现在一览无余的放在一起，对于热爱程序的每个人都不啻一场盛宴。虽然本书的涉猎范围很广，但也只能代表一小部分在这个软件开发这个最令人兴奋领域所发生的事情。&lt;/p&gt;</dc:description>
+        <dc:publisher>机械工业出版社</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">3224524</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787111251330</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>代码规范</dc:subject>
+        <meta content="{&quot;Andy Oram&quot;: &quot;&quot;, &quot;Grey Wilson&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="编程素养" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2013-05-27T01:42:22+00:00" name="calibre:timestamp"/>
+        <meta content="代码之美" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

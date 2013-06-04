@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">37ced11e-8ed1-454b-8b72-2937936a18e5</dc:identifier>
+        <dc:title>编写高质量代码</dc:title>
+        <dc:creator opf:file-as="曹刘阳" opf:role="aut">曹刘阳</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-05-27T01:59:23+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;本书以网站重构为楔子，深刻而直接地指出了Web前端开发中存在的重要问题—代码难以维护。如何才能提高代码的可维护性？人是最关键的因素！于是本书紧接着全方位地解析了作为一名合格的前端开发工程师应该掌握的技能和承担的职责，这对刚加入前端开发这一行的读者来说有很大的指导意义。同时，还解读了制定规范和团队合作的重要性。&lt;br&gt;本书的核心内容是围绕Web前端开发的三大技术要素——HTML、CSS和JavaScript来深入地探讨编写高质量的HTML代码、CSS代码和JavaScript代码的方法、技巧、规范和最佳实践，从而为编写易于维护的Web前端代码打下坚实的基础。这不是一本单纯的“技术”书籍，没有系统地讲解Web前端开发的基础知识，它更专注于“技巧”，探索如何为“技术”提供最佳“技巧”。&lt;br&gt;本书包含了大量的开发思想和原则，都是作者在长期开发实践中积累下来的经验和心得，不同水平的Web前端开发者都会从中获得启发。尤其是对于那些中初级水平的读者而言，本书是一本不可多得的内功修炼秘籍。&lt;/p&gt;</dc:description>
+        <dc:publisher>机械工业出版社</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">4881987</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787111305958</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>javascript</dc:subject>
+        <dc:subject>html</dc:subject>
+        <dc:subject>css</dc:subject>
+        <meta content="{&quot;曹刘阳&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="前端技术" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2013-05-27T01:59:23+00:00" name="calibre:timestamp"/>
+        <meta content="编写高质量代码" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

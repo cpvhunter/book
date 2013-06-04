@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0192bfe5-2687-4dcd-8c06-446267e9e453</dc:identifier>
+        <dc:title>High Performance MySQL</dc:title>
+        <dc:creator opf:file-as="Schwartz, Baron &amp; Zaitsev, Peter &amp; Tkachenko, Vadim &amp; D., Jeremy Zawodny &amp; Lentz, Arjen &amp; Balling, Derek J." opf:role="aut">Baron Schwartz</dc:creator>
+        <dc:creator opf:file-as="Schwartz, Baron &amp; Zaitsev, Peter &amp; Tkachenko, Vadim &amp; D., Jeremy Zawodny &amp; Lentz, Arjen &amp; Balling, Derek J." opf:role="aut">Peter Zaitsev</dc:creator>
+        <dc:creator opf:file-as="Schwartz, Baron &amp; Zaitsev, Peter &amp; Tkachenko, Vadim &amp; D., Jeremy Zawodny &amp; Lentz, Arjen &amp; Balling, Derek J." opf:role="aut">Vadim Tkachenko</dc:creator>
+        <dc:creator opf:file-as="Schwartz, Baron &amp; Zaitsev, Peter &amp; Tkachenko, Vadim &amp; D., Jeremy Zawodny &amp; Lentz, Arjen &amp; Balling, Derek J." opf:role="aut">Jeremy Zawodny D.</dc:creator>
+        <dc:creator opf:file-as="Schwartz, Baron &amp; Zaitsev, Peter &amp; Tkachenko, Vadim &amp; D., Jeremy Zawodny &amp; Lentz, Arjen &amp; Balling, Derek J." opf:role="aut">Arjen Lentz</dc:creator>
+        <dc:creator opf:file-as="Schwartz, Baron &amp; Zaitsev, Peter &amp; Tkachenko, Vadim &amp; D., Jeremy Zawodny &amp; Lentz, Arjen &amp; Balling, Derek J." opf:role="aut">Derek J. Balling</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-06-24T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;High Performance MySQL is the definitive guide to building fast, reliable systems with MySQL. Written by noted experts with years of real-world experience building very large systems, this book covers every aspect of MySQL performance in detail, and focuses on robustness, security, and data integrity.  High Performance MySQL teaches you advanced techniques in depth so you can bring out MySQL's full power. Learn how to design schemas, indexes, queries and advanced MySQL features for maximum performance, and get detailed guidance for tuning your MySQL server, operating system, and hardware to their fullest potential. You'll also learn practical, safe, high-performance ways to scale your applications with replication, load balancing, high availability, and failover. This second edition is completely revised and greatly expanded, with deeper coverage in all areas. Major additions include: * Emphasis throughout on both performance and reliability * Thorough coverage of storage engines, including in-depth tuning and optimizations for the InnoDB storage engine * Effects of new features in MySQL 5.0 and 5.1  , including stored procedures, partitioned databases, triggers, and views * A detailed discussion on how to build very large, highly scalable systems with MySQL * New options for backups and replication * Optimization of advanced querying features, such as full-text searches * Four new appendices  The book also includes chapters on benchmarking, profiling, backups, security, and tools and techniques to help you measure, monitor, and manage your MySQL installations.&lt;/p&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">3101726</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780596101718</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>mysql</dc:subject>
+        <meta content="{&quot;Baron Schwartz&quot;: &quot;&quot;, &quot;Jeremy Zawodny D.&quot;: &quot;&quot;, &quot;Vadim Tkachenko&quot;: &quot;&quot;, &quot;Arjen Lentz&quot;: &quot;&quot;, &quot;Peter Zaitsev&quot;: &quot;&quot;, &quot;Derek J. Balling&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="数据库" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-06-04T04:06:20+00:00" name="calibre:timestamp"/>
+        <meta content="High Performance MySQL" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

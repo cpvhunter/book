@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">247d9001-335b-41bd-a317-aac82159102e</dc:identifier>
+        <dc:title>MATLAB编程</dc:title>
+        <dc:creator opf:file-as="Chapman, Stephen J." opf:role="aut">Stephen J. Chapman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;《MATLAB编程(第2版)(英文影印版)》为国外高校电子信息类优秀教材(英文影印版)之一。《MATLAB编程(第2版)(英文影印版)》详细讲述了如何用MATLAB进行程序设计，如何编写清楚、高效的程序。书中强调了自上而下的程序设计方法、函数的使用、MATLAB内部工具的使用和数据结构，并指出了一些使用技巧和编程者常犯的错误。&lt;br&gt;《MATLAB编程(第2版)(英文影印版)》可作为工科各专业本科生的教学辅导书，也可作为工程技术人员的参考书。&lt;/p&gt;</dc:description>
+        <dc:publisher>科学出版社</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">1513863</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787030111395</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>matlab</dc:subject>
+        <meta content="{&quot;Stephen J. Chapman&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-06-04T04:18:27+00:00" name="calibre:timestamp"/>
+        <meta content="MATLAB编程" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

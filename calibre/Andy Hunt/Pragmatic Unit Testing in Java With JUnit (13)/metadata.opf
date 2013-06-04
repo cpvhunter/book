@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0d34e6ce-ca97-40c3-81df-e075c27aa24e</dc:identifier>
+        <dc:title>Pragmatic Unit Testing in Java With JUnit</dc:title>
+        <dc:creator opf:file-as="Hunt, Andy &amp; Thomas, Dave" opf:role="aut">Andy Hunt</dc:creator>
+        <dc:creator opf:file-as="Hunt, Andy &amp; Thomas, Dave" opf:role="aut">Dave Thomas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-09-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Learn how to improve your Java coding skills using unit testing.  Despite it's name, unit testing is really a coding technique, not a testing technique.  Unit testing is done by programmers, for programmers. It's primarily for our benefit: we get improved confidence in our code, better ability to make deadlines, less time spent in the debugger, and less time beating on the code to make it work correctly.    This book shows how to write tests, but more importantly, it goes where other books fear to tread and gives you concrete advice and examples of what to test--the common things that go wrong in all of our programs.  Discover the tricky hiding places where bugs breed, and how to catch them using the freely available JUnit framework.  It's easy to learn how to think of all the things in your code that are likely to break. We'll show you how with helpful mnemonics, summarized in a handy tip sheet (also available from our www.pragmaticprogrammer.com website) to help you remember all this stuff.     With this book you will:&lt;br&gt;&lt;br&gt;Write better code, and take less time to write it  &lt;br&gt;Discover the tricky places where bugs breed  &lt;br&gt;Learn how to think of all the things that could go wrong  &lt;br&gt;Test individual pieces of code without having to include the whole project  &lt;br&gt;Test effectively with the whole team  We'll also cover how to use Mock Objects for testing, how to write high quality test code, and how to use unit testing to improve your design skills.  We'll show you frequent "gotchas"--along with the fixes--to save you time when problems come up. We'll show you how with helpful mnemonics, summarized in a handy tip sheet (also available from our www.pragmaticprogrammer.com  website).    But the best part is that you don't need a sweeping mandate to change your whole team or your whole company.  You don't need to adopt Extreme Programming or Test-Driven Development, or change your development process in order to reap the proven benefits of unit testing.  You can start unit testing, the pragmatic way, right away.&lt;/p&gt;</dc:description>
+        <dc:publisher>The Pragmatic Programmers</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">1507352</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789745140127</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>java</dc:subject>
+        <dc:subject>XUnit</dc:subject>
+        <meta content="{&quot;Dave Thomas&quot;: &quot;&quot;, &quot;Andy Hunt&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="unittest" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2013-06-04T04:05:17+00:00" name="calibre:timestamp"/>
+        <meta content="Pragmatic Unit Testing in Java With JUnit" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

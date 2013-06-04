@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">18cd2d7b-ea01-4a60-bb98-c32e8950a01e</dc:identifier>
+        <dc:title>Head First Object-Oriented Analysis and Design</dc:title>
+        <dc:creator opf:file-as="McLaughlin, Brett D. &amp; Pollice, Gary &amp; West, Dave" opf:role="aut">Brett D. McLaughlin</dc:creator>
+        <dc:creator opf:file-as="McLaughlin, Brett D. &amp; Pollice, Gary &amp; West, Dave" opf:role="aut">Gary Pollice</dc:creator>
+        <dc:creator opf:file-as="McLaughlin, Brett D. &amp; Pollice, Gary &amp; West, Dave" opf:role="aut">Dave West</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-11-26T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;Brett McLaughlin is a bestselling and award-winning non-fiction author. His books on computer programming, home theater, and analysis and design have sold in excess of 100,000 copies. He has been writing, editing, and producing technical books for nearly a decade, and is as comfortable in front of a word processor as he is behind a guitar, chasing his two sons and his daughter around the house, or laughing at reruns of Arrested Development with his wife.&lt;br&gt;&lt;/p&gt;&lt;p&gt;Brett spends most of his time these days on cognitive theory, codifying and expanding on the learning principles that shaped the Head First series into a bestselling phenomenon. He's curious about how humans best learn, why Star Wars was so formulaic and still so successful, and is adamant that a good video game is the most effective learning paradigm we have.&lt;/p&gt;&lt;p&gt;Gary Pollice is a self-labeled curmudgeon (that's a crusty, ill- tempered, usually old man) who spent over 35 years in industry trying to figure out what he wanted to be when he grew up. Even though he hasn't grown up yet, he did make the move in 2003 to the hallowed halls of academia where he has been corrupting the minds of the next generation of software developers with radical ideas like, "develop software for your customer, learn how to work as part of a team, design and code quality and elegance and correctness counts, and it's okay to be a nerd as long as you are a great one." Gary is also a co-author of Head First Object-Oriented Analysis and Design. Gary is a Professor of Practice (meaning he had a real job before becoming a professor) at Worcester Polytechnic Institute. He went to WPI because he was so impressed with the WPI graduates that he's worked with over the years. He lives in central Massachusetts with his wife, Vikki, and their two dogs, Aloysius and Ignatius. When not working on geeky things he ... well he's always working on geeky things. You can see what he's up to by visiting his WPI home page at http://web.cs.wpi.edu/~gpollice/. Feel free to drop him a note and complain or cheer about the book.&lt;/p&gt;&lt;p&gt;Dave West would like to describe himself as sheik geek. Unfortunately no one else would describe him in that way. They would say he is a professional Englishman who likes to talk about software development best practices with the passion and energy of an evangelical preacher. Recently Dave has moved to Ivar Jacobson Consulting, where he runs the Americas and can combine his desire to talk about software development and spread the word on rugby and football, and argue that cricket is more exciting that baseball. Before running the Americas for Ivar Jacobson Consulting, Dave worked for a number of years at Rational Software (now a part of IBM). Dave held many positions at Rational and then IBM, including Product Manager for RUP where he introduced the idea of process plug-ins and agility to RUP. Dave still laments the days when he use to sit in a cube and write software in the city of London. This is where he believes he cut his teeth writing big insurance systems with nothing but a green screen and a process flow chart.&lt;br&gt;&lt;/p&gt;&lt;p&gt;Dave can be contacted at dwest@ivarjacobson.com, and if he is not with customers or drinking warm beer with his friends in Boston, he will email you back.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">1761742</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0596008678</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">-QpmamSKl_EC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780596008673</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>ood</dc:subject>
+        <dc:subject>ooa</dc:subject>
+        <meta content="{&quot;Brett D. McLaughlin&quot;: &quot;&quot;, &quot;Dave West&quot;: &quot;&quot;, &quot;Gary Pollice&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="设计模式" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-06-04T04:16:24+00:00" name="calibre:timestamp"/>
+        <meta content="Head First Object-Oriented Analysis and Design" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

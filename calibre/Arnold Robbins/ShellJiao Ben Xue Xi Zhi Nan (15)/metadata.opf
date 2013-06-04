@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">095b50dc-4a25-472e-a421-b9a4d888ac6d</dc:identifier>
+        <dc:title>Shell脚本学习指南</dc:title>
+        <dc:creator opf:file-as="Robbins, Arnold &amp; H.f.beebe, Nelson" opf:role="aut">Arnold Robbins</dc:creator>
+        <dc:creator opf:file-as="Robbins, Arnold &amp; H.f.beebe, Nelson" opf:role="aut">Nelson H.f.beebe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-04-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;《Shell脚本学习指南》将告诉你这些有关UNIX主流工具的知识。除此之外，《Shell脚本学习指南》还会帮助你解决UNIX命令与标准的差异。&lt;br&gt;作者熟知UNIx程序使用的基本技巧与操作上细微的差异。他们不但会告诉你如何构建一个绝佳的脚本，还会教你如何避免落入让你功亏一篑的陷阱。有了《Shell脚本学习指南》，你可以节省很多力气。&lt;br&gt;我们要学习的不只是如何写出有用的Shell脚本，你还得了解如何迅速、确实地定制Shell，让程序的可移植性达到最佳状态，脱离对特定系统的依赖。这些技巧对任何操作与维护UNIX及Linux系统的人而言都很重要。《Shell脚本学习指南》所提供的知识，将可以帮助你掌握基本的Shell脚本编写技巧。Shell脚本编程(scripting)的技巧永远不会过时：它们可以让UNIX充分发挥其真实的潜能。对uNIx的用户与系统管理者而言，编写shell脚本是必须的工作，它可以让你快速地控制与定制任何UNIX系统的强大功能。有了Shell脚本，你可以结合基本的UNIX文本与文件处理命令来消化数据，以及自动化重复的工作。一旦你对Shell脚本的编写掌控自如，在接下来的几年，这些技巧将对你相当有帮助。&lt;br&gt;编写shell脚本所需要的不只是对shell语言的认识，还必须熟知单个的uNIx程序：你必须知道每个程序为什么会放在那儿，以及如何使用该程序或如何将其与其他程序结合。&lt;/p&gt;</dc:description>
+        <dc:publisher>机械工业</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">3519360</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787111255048</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>shell</dc:subject>
+        <meta content="{&quot;Nelson H.f.beebe&quot;: &quot;&quot;, &quot;Arnold Robbins&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2013-06-04T04:05:46+00:00" name="calibre:timestamp"/>
+        <meta content="Shell脚本学习指南" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

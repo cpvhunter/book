@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3c1d449d-1d05-4430-90b1-7416a7fcff8e</dc:identifier>
+        <dc:title>JAVASCRIPT权威指南</dc:title>
+        <dc:creator opf:file-as="Flanagan, David" opf:role="aut">David Flanagan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-12-31T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;《JavaScript权威指南》全面介绍了JavaScript语言的核心，以及Web浏览器中实现的遗留和标准的DOM。它运用了一些复杂的例子，说明如何处理验证表单数据、使用cookie、创建可移植的DHTML动画等常见任务。本书还包括详细的参考手册，涵盖了JavaScript的核心API、遗留的客户端API和W3C标准DOM API，记述了这些API中的每一个JavaScript对象、方法、性质、构造函数、常量和事件处理程序。&lt;/p&gt;</dc:description>
+        <dc:publisher>机械工业出版社</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">1232061</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787111110910</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>javascript</dc:subject>
+        <meta content="{&quot;David Flanagan&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="前端技术" name="calibre:series"/>
+        <meta content="6" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-06-04T04:25:50+00:00" name="calibre:timestamp"/>
+        <meta content="JAVASCRIPT权威指南" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

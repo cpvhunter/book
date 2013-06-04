@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">90a41d94-1b19-417f-ad3d-a45a78913f4c</dc:identifier>
+        <dc:title>JavaScript语言精粹</dc:title>
+        <dc:creator opf:file-as="Crockford, Douglas" opf:role="aut">Douglas Crockford</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-05-27T01:59:49+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;本书通过对JavaScript语言的分析，甄别出好的和坏的特性，从而提取出相对这门语言的整体而言具有更好的可靠性、可读性和可维护性的JavaScript的子集，以便你能用它创建真正可扩展的和高效的代码。&lt;br&gt;雅虎资深JavaScript架构师Douglas Crockford倾力之作。&lt;br&gt;向读者介绍如何运用JavaScript创建真正可扩展的和高效的代码。&lt;/p&gt;</dc:description>
+        <dc:publisher>电子工业出版社</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">3590768</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787121084379</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>javascript</dc:subject>
+        <meta content="{&quot;Douglas Crockford&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="前端技术" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-05-27T01:59:49+00:00" name="calibre:timestamp"/>
+        <meta content="JavaScript语言精粹" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

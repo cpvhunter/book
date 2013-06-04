@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f6132cbe-15cd-4c21-984d-93fd1437f69a</dc:identifier>
+        <dc:title>重构——改善既有代码的设计</dc:title>
+        <dc:creator opf:file-as="Fowler, Martin" opf:role="aut">Martin Fowler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-07-31T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Martin Fowler和《重构:改善既有代码的设计》(中文版)另几位作者清楚揭示了重构过程，他们为面向对象软件开发所做的贡献，难以衡量。《重构:改善既有代码的设计》(中文版)解释重构的原理（principles）和最佳实践方式（best practices），并指出何时何地你应该开始挖掘你的代码以求改善。《重构:改善既有代码的设计》(中文版)的核心是一份完整的重构名录（catalog of refactoring），其中每一项都介绍一种经过实证的代码变换手法（code transformation）的动机和技术。某些项目如Extract Method和Move Field看起来可能很浅显，但不要掉以轻心，因为理解这类技术正是有条不紊地进行重构的关键。点击进入该书更多详细信息。&lt;/p&gt;</dc:description>
+        <dc:publisher>中国电力出版社</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">1229923</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787508315546</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>refactor</dc:subject>
+        <meta content="{&quot;Martin Fowler&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-06-04T05:01:41+00:00" name="calibre:timestamp"/>
+        <meta content="重构——改善既有代码的设计" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

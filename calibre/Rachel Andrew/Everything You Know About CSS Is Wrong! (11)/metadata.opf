@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c664e619-565c-48ec-b721-3a70fbdc077b</dc:identifier>
+        <dc:title>Everything You Know About CSS Is Wrong!</dc:title>
+        <dc:creator opf:file-as="Andrew, Rachel &amp; Yank, Kevin" opf:role="aut">Rachel Andrew</dc:creator>
+        <dc:creator opf:file-as="Andrew, Rachel &amp; Yank, Kevin" opf:role="aut">Kevin Yank</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-10-27T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;Rachel Andrew is a director of web-solutions provider edgeofmyseat.com. Rachel takes a common sense, real-world approach to web standards, with her writing and teaching being based on the experiences she has in her own company every day.&lt;/p&gt;&lt;p&gt;Rachel's writing credits include: The CSS Anthology (SitePoint), HTML Utopia: Designing Without Tables Using CSS, 2nd Edition (SitePoint), Dreamweaver Developer's Instant Troubleshooter (Apress), Dreamweaver MX Design Projects (Apress), Dynamic Dreamweaver MX (glasshaus), Fundamental Web Design And Development Skills (glasshaus).&lt;/p&gt;&lt;p&gt;Kevin Yank is a world-renowned leader in web development. When not writing best sellers, Kevin is the Technical Director of sitepoint.com and editor of the popular SitePoint Tech Times newsletter.&lt;/p&gt;&lt;p&gt;Kevin's Author credits include: Build Your Own Database Driven Website Using PHP &amp;amp; MySQL (SitePoint and Simply JavaScript (SitePoint).&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>SitePoint</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">3259229</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0980455227</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780980455229</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>css</dc:subject>
+        <meta content="{&quot;Kevin Yank&quot;: &quot;&quot;, &quot;Rachel Andrew&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="前端技术" name="calibre:series"/>
+        <meta content="5" name="calibre:series_index"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2013-06-03T08:17:54+00:00" name="calibre:timestamp"/>
+        <meta content="Everything You Know About CSS Is Wrong!" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b09bd36e-3c35-49fe-a878-41fa6a655302</dc:identifier>
+        <dc:title>尽管去做</dc:title>
+        <dc:creator opf:file-as="Allen, David" opf:role="aut">David Allen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-08-31T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;你希望既出色地完成工作，又可以快乐地享受生活吗？本书向你介绍了如何获取更加旺盛的精力，如何变得更加轻松自如，事半功倍的方法。作者在本书中揭示的方法，在各种类型的企业中，在每一种工作层面上，在不同的文化氛围中，甚至在家庭和学校里，都已经得到了证明是功效卓著的。&lt;/p&gt;</dc:description>
+        <dc:publisher>中信出版社</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">1085660</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787800738609</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>gtd</dc:subject>
+        <meta content="{&quot;David Allen&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="时间管理" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-06-04T04:25:27+00:00" name="calibre:timestamp"/>
+        <meta content="尽管去做" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

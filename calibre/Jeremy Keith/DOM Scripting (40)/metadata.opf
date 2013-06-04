@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0e8fbe52-5b05-4641-947e-f1f5622a49fe</dc:identifier>
+        <dc:title>DOM Scripting</dc:title>
+        <dc:creator opf:file-as="Keith, Jeremy &amp; Sambells, Jeffrey" opf:role="aut">Jeremy Keith</dc:creator>
+        <dc:creator opf:file-as="Keith, Jeremy &amp; Sambells, Jeffrey" opf:role="aut">Jeffrey Sambells</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;There are three main technologies married together to create usable, standards-compliant web designs: XHTML for data structure, Cascading Style Sheets for styling your data, and JavaScript for adding dynamic effects and manipulating structure on the fly using the Document Object Model. This book is about the latter of the three.&lt;br&gt;DOM Scripting: Web Design with JavaScript and the Document Object Model gives you everything you need to start using JavaScript and the Document Object Model to enhance your web pages with client-side dynamic effects. We start off by giving you a basic crash course in JavaScript and the DOM, then move on to provide you with several real world examples built up from scratch including dynamic image galleries and dynamic menus, and show you how to manipulate web page styles using the CSS DOM, and create markup on the fly.&lt;br&gt;New material for this edition includes a run through of the most popular JavaScript libraries and their use.&lt;/p&gt;</dc:description>
+        <dc:publisher>Friends of Ed</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">5436113</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781430233893</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>javascript</dc:subject>
+        <dc:subject>dom</dc:subject>
+        <meta content="{&quot;Jeremy Keith&quot;: &quot;&quot;, &quot;Jeffrey Sambells&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="前端技术" name="calibre:series"/>
+        <meta content="8" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-06-04T05:17:14+00:00" name="calibre:timestamp"/>
+        <meta content="DOM Scripting" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7ada2b07-b0d6-4c05-b4e6-a2f1e2eece2b</dc:identifier>
+        <dc:title>Practical Vim</dc:title>
+        <dc:creator opf:file-as="Neil, Drew" opf:role="aut">Drew Neil</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-07T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Vim, a vast improvement over its classic ancestor vi, is a serious tool for programmers, web developers, and sysadmins. No other text editor comes close to Vim for speed and efficiency; it runs on almost every system imaginable and supports most coding and markup languages.&lt;br&gt;Learn how to edit text the “Vim way”: complete a series of repetitive changes with The Dot Formula, using one keystroke to strike the target, followed by one keystroke to execute the change. Automate complex tasks by recording your keystrokes as a macro. Run the same command on a selection of lines, or a set of files.&lt;br&gt;Discover the “very magic” switch, which makes Vim’s regular expression syntax more like Perl’s. Build complex patterns by iterating on your search history. Search inside multiple files, then run Vim’s substitute command on the result set for a project-wide search and replace. All without installing a single plugin!&lt;br&gt;You’ll learn how to navigate text documents as fast as the eye moves—with only a few keystrokes. Jump from a method call to its definition with a single command. Use Vim’s jumplist, so that you can always follow the breadcrumb trail back to the file you were working on before. Discover a multilingual spell-checker that does what it’s told.&lt;br&gt;Practical Vim will show you new ways to work with Vim more efficiently, whether you’re a beginner or an intermediate Vim user.&lt;br&gt;All this, without having to touch the mouse.&lt;/p&gt;</dc:description>
+        <dc:publisher>Pragmatic Bookshelf</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">10599776</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1934356980</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781934356982</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>vim</dc:subject>
+        <meta content="{&quot;Drew Neil&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="vim" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-06-04T04:32:33+00:00" name="calibre:timestamp"/>
+        <meta content="Practical Vim" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

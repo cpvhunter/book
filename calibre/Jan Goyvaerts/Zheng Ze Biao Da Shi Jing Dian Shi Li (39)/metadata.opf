@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9482c7ae-e4ff-440c-937f-866c3bcd39b8</dc:identifier>
+        <dc:title>正则表达式经典实例</dc:title>
+        <dc:creator opf:file-as="Goyvaerts, Jan &amp; Levithan, Steven" opf:role="aut">Jan Goyvaerts</dc:creator>
+        <dc:creator opf:file-as="Goyvaerts, Jan &amp; Levithan, Steven" opf:role="aut">Steven Levithan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-12-31T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;《正则表达式经典实例》讲解了基于8种常用的编程语言使用正则表达式的经典实例。书中提供了上百种可以在实战中使用的实例，以帮助读者使用正则表达式来处理数据和文本。对于如何使用正则表达式来解决性能不佳、误报、漏报等常见的错误以及完成一些常见的任务，《正则表达式经典实例》给出了涉及基于C#、Java、JavaScript、Perl、PHP、Python、Ruby和VB.NET等编程语言的解决方案。《正则表达式经典实例》的读者对象是对正则表达式感兴趣的软件开发人员和系统管理员。《正则表达式经典实例》旨在教会读者很多新的技巧以及如何避免语言特定的陷阱，读者可以通过《正则表达式经典实例》提供的实例解决方案库来解决实践中的复杂问题。&lt;/p&gt;</dc:description>
+        <dc:publisher>人民邮电出版社</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">4872186</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">7115228329</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787115228321</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>正则</dc:subject>
+        <meta content="{&quot;Steven Levithan&quot;: &quot;&quot;, &quot;Jan Goyvaerts&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-06-04T05:16:58+00:00" name="calibre:timestamp"/>
+        <meta content="正则表达式经典实例" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a21455fd-0fac-4437-a83c-90a0f7ce41f7</dc:identifier>
+        <dc:title>SSH权威指南</dc:title>
+        <dc:creator opf:file-as="J.barrett, Daniel &amp; E.Silverman, Richard" opf:role="aut">Daniel J.barrett</dc:creator>
+        <dc:creator opf:file-as="J.barrett, Daniel &amp; E.Silverman, Richard" opf:role="aut">Richard E.Silverman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-03-31T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;快点用SSH保护你的计算机网络吧！SSH（Secure Shell）具有透明、保密性强、公钥认证可信的特点，并具有高度可配置的客户端/服务器体系结构，是基于TCP/IP协议、目前十分流行且健壮的网络安全与隐私保护解决方案。SSH支持安全远程登录，可用于计算机之间安全地传输文件。它特有的“隧道”功能能够保护其他一些原本并不安全的网络应用程序。而所有这一切中最重要的一点是，SSH既有免费版本，也有功能...&lt;/p&gt;</dc:description>
+        <dc:publisher>中国电力出版社</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">1241428</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787508310855</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ssh</dc:subject>
+        <meta content="{&quot;Daniel J.barrett&quot;: &quot;&quot;, &quot;Richard E.Silverman&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2013-06-04T04:06:11+00:00" name="calibre:timestamp"/>
+        <meta content="SSH权威指南" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

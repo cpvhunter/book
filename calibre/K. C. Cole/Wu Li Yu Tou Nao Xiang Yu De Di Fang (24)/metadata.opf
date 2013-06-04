@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">75b97a96-0ccf-4880-93e3-d85a0855300b</dc:identifier>
+        <dc:title>物理与头脑相遇的地方</dc:title>
+        <dc:creator opf:file-as="Cole, K. C." opf:role="aut">K. C. Cole</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-06-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;本书是关于物理的散文化文集,介绍许多物理学家和他们的影响力,讨论使世界万物运转的力及压力和近代物理的基础等。&lt;/p&gt;</dc:description>
+        <dc:publisher>长春出版社</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">1277979</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">pNVdAAAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787806643297</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>physics</dc:subject>
+        <dc:subject>科普</dc:subject>
+        <meta content="{&quot;K. C. Cole&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="physics" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-06-04T04:18:54+00:00" name="calibre:timestamp"/>
+        <meta content="物理与头脑相遇的地方" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

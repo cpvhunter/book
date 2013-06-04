@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5cd85cc0-391e-4352-b5c2-dbcbb89d1317</dc:identifier>
+        <dc:title>Linux 下的C编程 (精装)</dc:title>
+        <dc:creator opf:file-as="贾明" opf:role="aut">贾明</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-11-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;本书系统地介绍了在Linux平台下用C语言进行程序开发的过程，并通过列举大量的程序实例，使读者很快掌握在Linux平台下进行C程序开发的方法和技巧，并具备开发大型应用程序的能力。    本书内容详实，主要包括：Linux平台下C语言编程环境的介绍，C语言编译器、调试工具和自动维护工具的使用方法，Linux系统提供特有的函数调用，在C程序中访问文件的方法，进程的概念、进程间通信以及多进程同步运行的实现手段，C语言网络编程方法等。    本书结构合理、概念清晰、实例丰富，并具有很强的启发性和实用性，适用于在Linux系统下进行C语言编程的程序员和广大爱好者阅读。&lt;/p&gt;</dc:description>
+        <dc:publisher>人民邮电出版社</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">1231657</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787115097880</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>inux</dc:subject>
+        <dc:subject>c</dc:subject>
+        <meta content="{&quot;贾明&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2013-06-04T05:17:18+00:00" name="calibre:timestamp"/>
+        <meta content="Linux 下的C编程 (精装)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

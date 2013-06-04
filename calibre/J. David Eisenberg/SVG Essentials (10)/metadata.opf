@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">405ec6cf-6e08-4977-8e76-eef8ba465996</dc:identifier>
+        <dc:title>SVG Essentials</dc:title>
+        <dc:creator opf:file-as="Eisenberg, J. David" opf:role="aut">J. David Eisenberg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-02-11T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;h3&gt;Amazon.com Review&lt;/h3&gt;&lt;p&gt;&lt;em&gt;SVG Essentials&lt;/em&gt; opens the door to the rich language that underpins this emerging and fast-growing graphics language. Scalable Vector Graphics, which are described through text like a programming language and can be read on any computer platform with the appropriate viewer, hold great promise for the Web designer who knows how to take advantage of the latent power. This book helps to harness that power.&lt;/p&gt;&lt;p&gt;It's important to note that this book is not written for Web designers looking to add SVG graphics to their sites, but rather for Web programmers who need to add such graphics based on information extracted from a database, or who want to add them by hand. If you have or use an application that can export or embed SVG graphics, you may not need this book. However, if you are looking to create dynamic images that get created on the fly, or perhaps be able to draw graphics based on information from the user or from a database, you've come to the right book.&lt;/p&gt;&lt;p&gt;Although only 330 pages, the book offers 13 chapters and six appendices. Everything from a basic overview of the SVG language through practical examples to the finer points of serving SVG files over the Web is thoroughly detailed, and each chapter is concisely written and rich with screenshots, illustrations, and code examples. &lt;/p&gt;&lt;p&gt;O'Reilly has earned a positive reputation for publishing outstanding technical books, and &lt;em&gt;SVG Essentials&lt;/em&gt; makes a fine addition to their lineup. The SVG graphics standard is rapidly gaining ground. Backed by important vendors as Adobe, SVG is poised to be a powerful tool in the arsenal of today's Web designer. Keep this book within arm's reach of any SVG developer or Web designer who wants to take advantage of this emerging and powerful technology. &lt;em&gt;--Mike Caputo&lt;/em&gt;&lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;J. David Eisenberg is a programmer and instructor living in San Jose, California with his cat, Tabitha. David has a talent for teaching and explaining. He has developed courses for CSS, JavaScript, CGI, and beginning XML. He also teaches C and Perl at De Anza Community College in Cupertino. David has written articles for xml.com and alisapart.com on topics such as Javascript and the Document Object Model, XML validation, XSL Transformations and Formatting Objects, and (surprise) SVG. His on-line courses provide introductory tutorials for Korean, Modern Greek, and Russian. David has also been developing education software since 1975, when he worked with the Modern Foreign Language project at the University of Illinois to develop computer-assisted instruction on the PLATO system. He co-authored several of the in-box tutorials shipped with the venerable Apple II computer. David did the programming for the multimedia CD-ROM version of a series of children's stories, and the programming for beginning Algebra and Spanish discs. When not programming, David enjoys digital photography, reading science fiction, and riding his bicycle. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B00CVE5M0Q</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">0596002238</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>svg</dc:subject>
+        <meta content="{&quot;J. David Eisenberg&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="做图" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-06-03T05:36:27+00:00" name="calibre:timestamp"/>
+        <meta content="SVG Essentials" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

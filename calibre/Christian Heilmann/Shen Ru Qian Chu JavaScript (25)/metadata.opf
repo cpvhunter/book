@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">332fbd22-2990-46a1-823c-1fbf329d06cf</dc:identifier>
+        <dc:title>深入浅出JavaScript</dc:title>
+        <dc:creator opf:file-as="Heilmann, Christian" opf:role="aut">Christian Heilmann</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0100-12-31T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;本书是一部优秀的、注重实践的JavaScript教程。作者首先概览了JavaScript，包括它的语法、良好的编码习惯、DOM编程原则等；然后构建了JavaScript工具包，包括动态操作标记、使用CSS和DOM修改页面风格、验证表单、处理图像等；接着通过一个完整的案例研究阐明了如何使用多种JavaScript 技术协同工作；最后单独设计一章来讲述第三方示例，演示了YUI 和 jQuery JavaScript库的使用。&lt;br&gt;本书适合初级和中级水平的JavaScript开发人员阅读，可作为高等院校计算机专业的JavaScript课程教材。&lt;/p&gt;</dc:description>
+        <dc:publisher>人民邮电出版社</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">3006856</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787115171689</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>javascript</dc:subject>
+        <meta content="{&quot;Christian Heilmann&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="前端技术" name="calibre:series"/>
+        <meta content="7" name="calibre:series_index"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2013-06-04T04:24:53+00:00" name="calibre:timestamp"/>
+        <meta content="深入浅出JavaScript" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

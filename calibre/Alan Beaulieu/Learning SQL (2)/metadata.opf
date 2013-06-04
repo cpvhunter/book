@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d13a026a-bd61-423f-bd75-1fb05dced35e</dc:identifier>
+        <dc:title>Learning SQL</dc:title>
+        <dc:creator opf:file-as="Beaulieu, Alan" opf:role="aut">Alan Beaulieu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-08-21T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;SQL (Structured Query Language) is a standard programming language for generating, manipulating, and retrieving information from a relational database.  If you're working with a relational database—whether you're writing applications, performing administrative tasks, or generating reports—you need to know how to interact with your data. Even if you are using a tool that generates SQL for you, such as a reporting tool, there may still be cases where you need to bypass the automatic generation feature and write your own SQL statements.&lt;/p&gt;&lt;p class="description"&gt;  To help you attain this fundamental SQL knowledge, look to Learning SQL, an introductory guide to SQL, designed primarily for developers just cutting their teeth on the language. &lt;/p&gt;&lt;p class="description"&gt;  Learning SQL moves you quickly through the basics and then on to some of the more commonly used advanced features.  Among the topics discussed:  &lt;/p&gt;&lt;p class="description"&gt;The history of the computerized database  &lt;br&gt;SQL Data Statements—those used to create, manipulate, and retrieve data stored in your database; example statements include select, update, insert, and delete  &lt;br&gt;SQL Schema Statements—those used to create database objects, such as tables, indexes, and constraints  &lt;br&gt;How data sets can interact with queries  &lt;br&gt;The importance of subqueries  &lt;br&gt;Data conversion and manipulation via SQL's built-in functions  &lt;br&gt;How conditional logic can be used in Data Statements  Best of all, Learning SQL talks to you in a real-world manner, discussing various platform differences that you're likely to encounter and offering a series of chapter exercises that walk you through the learning process.  Whenever possible, the book sticks to the features included in the ANSI SQL standards.  This means you'll be able to apply what you learn to any of several different databases; the book covers MySQL, Microsoft SQL Server, and Oracle Database, but the features and syntax should apply just as well (perhaps with some tweaking) to IBM DB2, Sybase Adaptive Server, and PostgreSQL.&lt;/p&gt;&lt;p class="description"&gt;  Put the power and flexibility of SQL to work. With Learning SQL you can master this important skill and know that the SQL statements you write are indeed correct.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">1828638</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">q6bhmAEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780596007270</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>sql</dc:subject>
+        <meta content="{&quot;Alan Beaulieu&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="数据库" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2013-05-27T01:41:47+00:00" name="calibre:timestamp"/>
+        <meta content="Learning SQL" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

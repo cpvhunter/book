@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6bae4c17-5f41-41e8-9c74-463f9b2a76c2</dc:identifier>
+        <dc:title>JAVA并发编程实践</dc:title>
+        <dc:creator opf:file-as="Geotz, Brian &amp; Peierls, Tim &amp; Bloch, Joshua &amp; Bowbeer, Joseph &amp; Holmes, David &amp; Lea, Doug" opf:role="aut">Brian Geotz</dc:creator>
+        <dc:creator opf:file-as="Geotz, Brian &amp; Peierls, Tim &amp; Bloch, Joshua &amp; Bowbeer, Joseph &amp; Holmes, David &amp; Lea, Doug" opf:role="aut">Tim Peierls</dc:creator>
+        <dc:creator opf:file-as="Geotz, Brian &amp; Peierls, Tim &amp; Bloch, Joshua &amp; Bowbeer, Joseph &amp; Holmes, David &amp; Lea, Doug" opf:role="aut">Joshua Bloch</dc:creator>
+        <dc:creator opf:file-as="Geotz, Brian &amp; Peierls, Tim &amp; Bloch, Joshua &amp; Bowbeer, Joseph &amp; Holmes, David &amp; Lea, Doug" opf:role="aut">Joseph Bowbeer</dc:creator>
+        <dc:creator opf:file-as="Geotz, Brian &amp; Peierls, Tim &amp; Bloch, Joshua &amp; Bowbeer, Joseph &amp; Holmes, David &amp; Lea, Doug" opf:role="aut">David Holmes</dc:creator>
+        <dc:creator opf:file-as="Geotz, Brian &amp; Peierls, Tim &amp; Bloch, Joshua &amp; Bowbeer, Joseph &amp; Holmes, David &amp; Lea, Doug" opf:role="aut">Doug Lea</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-06-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;《JAVA并发编程实践》随着多核处理器的普及，使用并发成为构建高性能应用程序的关键。Java 5以及6在开发并发程序中取得了显著的进步，提高了Java虚拟机的性能以及并发类的可伸缩性，并加入了丰富的新并发构建块。在《JAVA并发编程实践》中，这些便利工具的创造者不仅解释了它们究竟如何工作、如何使用，还阐释了创造它们的原因，及其背后的设计模式。&lt;/p&gt;</dc:description>
+        <dc:publisher>电子工业出版社</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">2148132</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">nBkOJwAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787121043161</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>java</dc:subject>
+        <dc:subject>parallel</dc:subject>
+        <meta content="{&quot;Tim Peierls&quot;: &quot;&quot;, &quot;Brian Geotz&quot;: &quot;&quot;, &quot;Joseph Bowbeer&quot;: &quot;&quot;, &quot;David Holmes&quot;: &quot;&quot;, &quot;Doug Lea&quot;: &quot;&quot;, &quot;Joshua Bloch&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-06-04T04:16:46+00:00" name="calibre:timestamp"/>
+        <meta content="JAVA并发编程实践" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

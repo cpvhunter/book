@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2e4cd78c-c582-4d9f-b9ad-00b534d132af</dc:identifier>
+        <dc:title>VIM User manual</dc:title>
+        <dc:creator opf:file-as="Moolenaar, Bram" opf:role="aut">Bram Moolenaar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-06-04T04:06:29+00:00</dc:date>
+        <dc:language>zho</dc:language>
+        <dc:subject>manual</dc:subject>
+        <dc:subject>vim</dc:subject>
+        <meta content="{&quot;Bram Moolenaar&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="vim" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-06-04T04:06:29+00:00" name="calibre:timestamp"/>
+        <meta content="VIM User manual" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>
