@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">88</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">75e579a8-7a44-47f1-ab33-8a95098db1fa</dc:identifier>
+        <dc:title>CSS权威指南</dc:title>
+        <dc:creator opf:file-as="Meyer, Eric A." opf:role="aut">Eric A. Meyer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-05-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;这本书提供了对CSSl和CSS定位的完整的描述，同时也给出了CSS2的概述。书中对CSS的每个属性都做了详细的探究，同时讨论了各个属性之间如何协调、以及怎样避免一些常见错误。&lt;br&gt;这本书的特点在于，它是第一本将CSS与当前浏览器支持结合起来描述的读物，而不仅仅是讲述CSS理论上应该如何工作，因此它为Web创作者和编辑人员高效使用CSS提供了全面的指南。&lt;/p&gt;</dc:description>
+        <dc:publisher>中国电力出版社</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">1240134</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787508305608</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>css</dc:subject>
+        <meta content="{&quot;Eric A. Meyer&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="前端技术" name="calibre:series"/>
+        <meta content="16" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-06-06T05:16:36+00:00" name="calibre:timestamp"/>
+        <meta content="CSS权威指南" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

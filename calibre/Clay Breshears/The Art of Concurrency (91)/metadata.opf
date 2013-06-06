@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">91</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d0fd8556-5cd4-44af-b1d9-bf6398aa8eb5</dc:identifier>
+        <dc:title>The Art of Concurrency</dc:title>
+        <dc:creator opf:file-as="Breshears, Clay" opf:role="aut">Clay Breshears</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-05-21T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;If you're looking to take full advantage of multi-core processors with concurrent programming, this practical book provides the knowledge and hands-on experience you need. "The Art of Concurrency" is one of the few resources to focus on implementing algorithms in the shared-memory model of multi-core processors, rather than just theoretical models or distributed-memory architectures. The book provides detailed explanations and usable samples to help you transform algorithms from serial to parallel code, along with advice and analysis for avoiding mistakes that programmers typically make when first attempting these computations. Written by an Intel engineer with over two decades of parallel and concurrent programming experience, this book will help you: understand parallelism and concurrency; explore differences between programming for shared-memory and distributed-memory; learn guidelines for designing multithreaded applications, including testing and tuning; discover how to make best use of different threading libraries, including Windows threads, POSIX threads, OpenMP, and Intel Threading Building Blocks; and, explore how to implement concurrent algorithms that involve sorting, searching, graphs, and other practical computations. "The Art of Concurrency" shows you how to keep algorithms scalable to take advantage of new processors with even more cores. For developing parallel code algorithms for concurrent programming, this book is a must.&lt;/p&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">3572912</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0596521537</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780596521530</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>并发</dc:subject>
+        <meta content="{&quot;Clay Breshears&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2013-06-06T05:16:39+00:00" name="calibre:timestamp"/>
+        <meta content="Art of Concurrency, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

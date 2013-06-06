@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">90</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b5b7b6f4-1d86-451d-a85c-5cd6ff743e83</dc:identifier>
+        <dc:title>代码整洁之道</dc:title>
+        <dc:creator opf:file-as="Martin, Robert C." opf:role="aut">Robert C. Martin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-12-31T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;软件质量，不但依赖于架构及项目管理，而且与代码质量紧密相关。这一点，无论是敏捷开发流派还是传统开发流派，都不得不承认。《代码整洁之道》提出一种观念：代码质量与其整洁度成正比。干净的代码，既在质量上较为可靠，也为后期维护、升级奠定了良好基础。作为编程领域的佼佼者，《代码整洁之道》作者给出了一系列行之有效的整洁代码操作实践。这些实践在《代码整洁之道》中体现为一条条规则(或称“启示”)，并辅以来自现实项目的正、反两面的范例。只要遵循这些规则，就能编写出干净的代码，从而有效提升代码质量。&lt;br&gt;《代码整洁之道》阅读对象为一切有志于改善代码质量的程序员及技术经理。书中介绍的规则均来自作者多年的实践经验，涵盖从命名到重构的多个编程方面，虽为一“家”之言，然诚有可资借鉴的价值。&lt;/p&gt;
+&lt;p class="description"&gt;  点击链接进入新版： 编码整洁之道:专业程序员的行为准则(英文版)&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>人民邮电出版社</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">4199741</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">SS1YcgAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787115216878</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;Robert C. Martin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="编程素养" name="calibre:series"/>
+        <meta content="6" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-06-06T05:16:38+00:00" name="calibre:timestamp"/>
+        <meta content="代码整洁之道" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

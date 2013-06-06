@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">92</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c340840c-67ae-403d-b9ca-fbf4a72f1254</dc:identifier>
+        <dc:title>修改代码的艺术</dc:title>
+        <dc:creator opf:file-as="费瑟 &amp; 刘未鹏" opf:role="aut">Michael C. Feathers</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-06-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;我们都知道，即使是最训练有素的开发团队，也不能保证始终编写出清晰高效的代码。如果不积极地修改、挽救，随着时间流逝，所有软件都会不可避免地渐渐变得复杂、难以理解，最终腐化、变质。因此，理解并修改已经编写好的代码，是每一位程序员每天都要面对的工作，也是开发程序新特性的基础。然而，与开发新代码相比，修改代码更加令人生畏，而且长期以来缺乏文献和资料可供参考。&lt;br&gt;本书是继《重构》和《重构与模式》之后探讨修改代码技术的又一里程碑式的著作，而且从涵盖面和深度上都超过了前两部经典。书中不仅讲述面向对象语言（Java、C#和C++）代码，也有专章讨论C这样的过程式语言。作者将理解、测试和修改代码的原理、技术和最新工具（自动化重构工具、单元测试框架、仿对象、集成测试框架等），与解依赖技术和大量开发和设计优秀代码的原则、最佳实践相结合，许多内容非常深入，而且常常发前人所未发。书中处处体现出作者独到的洞察力，以及多年开发和指导软件项目所积累的丰富经验和深厚功力。通过这部集大成之作，你不仅能掌握最顶尖的修改代码技术，还可以大大提高对代码和软件开发的领悟力。&lt;/p&gt;</dc:description>
+        <dc:publisher>人民邮电出版社</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">2248759</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">EFpiMQAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787115163622</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>refactor</dc:subject>
+        <meta content="{&quot;Michael C. Feathers&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-06-06T05:16:39+00:00" name="calibre:timestamp"/>
+        <meta content="修改代码的艺术" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>
