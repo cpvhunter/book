@@ -13,11 +13,11 @@
         <dc:identifier opf:scheme="ISBN">9787111305958</dc:identifier>
         <dc:language>zho</dc:language>
         <dc:subject>javascript</dc:subject>
-        <dc:subject>html</dc:subject>
         <dc:subject>css</dc:subject>
+        <dc:subject>html</dc:subject>
         <meta content="{&quot;曹刘阳&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="前端技术" name="calibre:series"/>
-        <meta content="3" name="calibre:series_index"/>
+        <meta content="编程素养" name="calibre:series"/>
+        <meta content="7" name="calibre:series_index"/>
         <meta content="6" name="calibre:rating"/>
         <meta content="2013-05-27T01:59:23+00:00" name="calibre:timestamp"/>
         <meta content="编写高质量代码" name="calibre:title_sort"/>

@@ -16,8 +16,8 @@
         <dc:language>eng</dc:language>
         <dc:subject>javascript</dc:subject>
         <meta content="{&quot;Nicholas C. Zakas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="前端技术" name="calibre:series"/>
-        <meta content="13" name="calibre:series_index"/>
+        <meta content="编程素养" name="calibre:series"/>
+        <meta content="8" name="calibre:series_index"/>
         <meta content="8" name="calibre:rating"/>
         <meta content="2013-06-06T01:52:59+00:00" name="calibre:timestamp"/>
         <meta content="Maintainable JavaScript" name="calibre:title_sort"/>

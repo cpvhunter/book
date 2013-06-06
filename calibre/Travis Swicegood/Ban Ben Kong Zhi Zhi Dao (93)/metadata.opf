@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">93</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7233a5f6-cfc6-45b1-ac53-03383c470272</dc:identifier>
+        <dc:title>版本控制之道</dc:title>
+        <dc:creator opf:file-as="Swicegood, Travis" opf:role="aut">Travis Swicegood</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-06-06T12:36:55+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;《程序员修炼三部曲》丛书包含了三个部分，旨在帮助程序员解决在日常工作中遇到的一些具体问题，内容覆盖了对于现代软件开发非常重要的基础知识。这套丛书展现了注重实效的实际技巧以及工具使用方面的内容。&lt;br&gt;《版本控制之道》系列是三部曲中的第一部，它讲述如何使用版本控制为项目提供安全保障，并提高开发、集成和发布的效率。&lt;br&gt;随着版本控制工具Git越来越流行，《版本控制之道》在陆续推出了CVS版、Subversion版后，现在也推出了Git版，即本书。Git是一个功能强大的工具，这也意味着完全掌握它是件颇费时间的事。而本书的特点是实用：它介绍Git的精髓和常用的功能，让读者迅速上手，很快就可以在实际项目中使用Git并受益。&lt;/p&gt;</dc:description>
+        <dc:publisher>电子工业出版社</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">4813786</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787121107191</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>git</dc:subject>
+        <meta content="{&quot;Travis Swicegood&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="version_control" name="calibre:series"/>
+        <meta content="5" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-06-06T12:36:55+00:00" name="calibre:timestamp"/>
+        <meta content="版本控制之道" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>
