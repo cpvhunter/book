@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">62</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">72a2c0a8-04f5-4e92-bfa6-9e5cada2a271</dc:identifier>
+        <dc:title>Pragmatic Project Automation</dc:title>
+        <dc:creator opf:file-as="Clark, Mike" opf:role="aut">Mike Clark</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-08-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Forget wizards, you need a slave - someone to do your repetitive, tedious and boring tasks, without complaint and without pay, so you'll have more time to design and write exciting code. Indeed, that's what computers are for. You can enlist your own computer to automate all of your project's repetitive tasks, ranging from individual builds and running unit tests through to full product release, customer deployment, and monitoring the system. Many teams try to do these tasks by hand. That's usually a really bad idea: people just aren't as good at repetitive tasks as machines. You run the risk of doing it differently the one time it matters, on one machine but not another, or doing it just plain wrong. But the computer can do these tasks for you the same way, time after time, without bothering you. You can transform these labor-intensive, boring and potentially risky chores into automatic, background processes that just work. In this eagerly anticipated book, you'll find a variety of popular, open-source tools to help automate your project. With this book, you will learn: how to make your build processes accurate, reliable, fast, and easy; how to build complex systems at the touch of a button; how to build, test, and release software automatically, with no human intervention;  technologies and tools available for automation: which to use and when; and tricks and tips from the masters (do you know how to have your cell phone tell you that your build just failed?)You'll find easy-to-implement recipes to automate your Java project, using the same popular style as the rest of our Jolt Productivity Award-winning Starter Kit books. Armed with plenty of examples and concrete, pragmatic advice, you'll find it's easy to get started and reap the benefits of modern software development. You can begin to enjoy pragmatic, automatic, unattended software production that's reliable and accurate every time.&lt;/p&gt;</dc:description>
+        <dc:publisher>The Pragmatic Programmers</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">1452548</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780974514031</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>java</dc:subject>
+        <dc:subject>Pragmatic</dc:subject>
+        <meta content="{&quot;Mike Clark&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2013-06-04T13:02:42+00:00" name="calibre:timestamp"/>
+        <meta content="Pragmatic Project Automation" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

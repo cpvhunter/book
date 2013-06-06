@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">71</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eec65688-36e3-4efc-87a9-c9fcb995f15e</dc:identifier>
+        <dc:title>Ajax基础教程</dc:title>
+        <dc:creator opf:file-as="Asleson, Ryan &amp; Schutta, Nathaniel" opf:role="aut">Ryan Asleson</dc:creator>
+        <dc:creator opf:file-as="Asleson, Ryan &amp; Schutta, Nathaniel" opf:role="aut">Nathaniel Schutta</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1991-06-04T15:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Ajax技术可以提供高度交互的Web应用，给予用户更丰富的页面浏览体验。本书重点介绍Ajax及相关的工具和技术，主要内容包括XMLHttpRequest对象及其属性和方法、发送请求和处理响应、构建完备的Ajax开发工具、使用JsUnit测试JavaScript、分析JavaScript调试工具和技术，以及Ajax开发模式和框架等。本书中所有例子的代码都可以从Apress网站本书主页的源代码（Source Code）免费得到。&lt;br&gt;本书适合各层次Web应用开发人员和网页设计人员阅读。&lt;/p&gt;</dc:description>
+        <dc:publisher>人民邮电出版社</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">1472607</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">7115144818</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787115144812</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>javascript</dc:subject>
+        <dc:subject>ajax</dc:subject>
+        <meta content="{&quot;Ryan Asleson&quot;: &quot;&quot;, &quot;Nathaniel Schutta&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="前端技术" name="calibre:series"/>
+        <meta content="11" name="calibre:series_index"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2013-06-04T13:05:42+00:00" name="calibre:timestamp"/>
+        <meta content="Ajax基础教程" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

@@ -14,8 +14,8 @@
         <dc:language>eng</dc:language>
         <dc:subject>svg</dc:subject>
         <meta content="{&quot;J. David Eisenberg&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="做图" name="calibre:series"/>
-        <meta content="1" name="calibre:series_index"/>
+        <meta content="前端技术" name="calibre:series"/>
+        <meta content="10" name="calibre:series_index"/>
         <meta content="8" name="calibre:rating"/>
         <meta content="2013-06-03T05:36:27+00:00" name="calibre:timestamp"/>
         <meta content="SVG Essentials" name="calibre:title_sort"/>

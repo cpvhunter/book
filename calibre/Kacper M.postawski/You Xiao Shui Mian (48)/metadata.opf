@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d6c57a05-caff-4f66-b6e0-94e3c725b1fd</dc:identifier>
+        <dc:title>有效睡眠</dc:title>
+        <dc:creator opf:file-as="M.Postawski, Kacper" opf:role="aut">Kacper M.postawski</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-06-04T12:51:11+00:00</dc:date>
+        <dc:identifier opf:scheme="DOUBAN">7067548</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787629371049</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>Sleep</dc:subject>
+        <meta content="{&quot;Kacper M.postawski&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="时间管理" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-06-04T12:51:11+00:00" name="calibre:timestamp"/>
+        <meta content="有效睡眠" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

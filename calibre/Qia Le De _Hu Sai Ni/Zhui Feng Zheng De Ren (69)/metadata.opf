@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">69</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1ec89f13-7b64-4b7f-977f-114879b6b236</dc:identifier>
+        <dc:title>追风筝的人</dc:title>
+        <dc:creator opf:file-as="卡勒德·胡赛尼" opf:role="aut">卡勒德·胡赛尼</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-05-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;12岁的阿富汗富家爷阿米尔与人哈桑情同足。然而,在一场风比赛后,发生了一件悲惨不堪事,阿米尔为自己的懦弱感到自责痛苦,逼走了哈桑,不久,自己也跟随父逃往美国。成年后的阿米尔始终无法原谅自己当对哈桑的背叛。为了赎罪,阿米再度踏上暌违二十多年的故乡,希望能为不幸的好友尽后一点心力,却发现一个惊天谎言,儿时的噩梦再度重演,阿米尔该如何抉择?小说如此残忍而又美丽,作者以温暖细的笔法勾勒人性的本质与救赎,读来令人荡气回肠.&lt;/p&gt;</dc:description>
+        <dc:publisher>上海人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">1770782</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">NoGJAwAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787208061644</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;卡勒德·胡赛尼&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="文学" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-06-04T13:05:05+00:00" name="calibre:timestamp"/>
+        <meta content="追风筝的人" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

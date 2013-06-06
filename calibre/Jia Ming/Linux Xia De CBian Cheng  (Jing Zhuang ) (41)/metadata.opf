@@ -13,7 +13,7 @@
         <dc:identifier opf:scheme="ISBN">9787115097880</dc:identifier>
         <dc:language>zho</dc:language>
         <dc:subject>inux</dc:subject>
-        <dc:subject>c</dc:subject>
+        <dc:subject>C</dc:subject>
         <meta content="{&quot;贾明&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="6" name="calibre:rating"/>
         <meta content="2013-06-04T05:17:18+00:00" name="calibre:timestamp"/>

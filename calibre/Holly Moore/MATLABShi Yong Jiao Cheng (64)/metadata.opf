@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">64</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">56251fef-20ee-47d6-8315-c101c1680fb0</dc:identifier>
+        <dc:title>MATLAB实用教程</dc:title>
+        <dc:creator opf:file-as="Moore, Holly" opf:role="aut">Holly Moore</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;《MATLAB实用教程(第2版)》分三个部分介绍了MATLAB原理及其应用，共有13章。《MATLAB实用教程(第2版)》的第一部分重点介绍 MATLAB的基本原理、基本函数和图形化功能；第二部分介绍MATLAB编程方法、函数工具箱的使用方法和数据输入/输出方法；第三部分介绍方程组求解、符号数学包应用、曲线拟合以及数据可视化方法。《MATLAB实用教程(第2版)》在内容组织上深入浅出，力求通俗易懂，注重工程实用。书中提供的大量实例来自非常普通、非常基础的学科领域，内容丰富，叙述简明，同时还配有插图，给读者以轻松明快的感觉。每章结束附有习题，供练习巩固之用。&lt;br&gt; 《MATLAB 实用教程(第2版)》的最大特点是不要求读者掌握高深的数学知识和计算机理论，就可以轻松简单地学会MATLAB原理，并能在实际工程中予以应用。因此，《MATLAB实用教程(第2版)》适用于任何工科专业的低年级大学生，既可以作为理想的教学用书，也可以作为自学参考书。   注：版权页和封面无误，封底印刷有误。&lt;/p&gt;</dc:description>
+        <dc:publisher>电子工业出版社</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">4254318</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787121101793</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>matlab</dc:subject>
+        <meta content="{&quot;Holly Moore&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-06-04T13:03:02+00:00" name="calibre:timestamp"/>
+        <meta content="MATLAB实用教程" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

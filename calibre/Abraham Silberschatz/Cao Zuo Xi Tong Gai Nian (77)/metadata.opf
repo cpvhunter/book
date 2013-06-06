@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">77</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3eb0edaa-2ac3-46a5-aff7-acb503646273</dc:identifier>
+        <dc:title>操作系统概念</dc:title>
+        <dc:creator opf:file-as="Silberschatz, Abraham &amp; Galvin, Peter Baer &amp; Gagne, Greg" opf:role="aut">Abraham Silberschatz</dc:creator>
+        <dc:creator opf:file-as="Silberschatz, Abraham &amp; Galvin, Peter Baer &amp; Gagne, Greg" opf:role="aut">Peter Baer Galvin</dc:creator>
+        <dc:creator opf:file-as="Silberschatz, Abraham &amp; Galvin, Peter Baer &amp; Gagne, Greg" opf:role="aut">Greg Gagne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-01-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;《操作系统概念》(第6版翻译版)是讨论了操作系统中的基本概念和算法，并对大量实例(如Linux系统)进行了研究。全书内容共分七部分。第一部分概要解释了操作系统是什么、做什么、是怎样设计与构造的，也解释了操作系统概念是如何发展起来的，操作系统的公共特性是什么。第二部分进程管理描述了作为现代操作系统核心的进程以及并发的概念。第三部分存储管理描述了存储管理的经典结构与算法以及不同的存储管理方案。第四部分I／O系统对I／O进行了深入的讨论，包括I／O系统设计、接口、内部结构与功能等。第五部分分布式系统介绍了分布式系统的一般结构以及连接它们的网络，讨论了分布存取策略、分布式文件系统及分布式系统中同步、通信等机制。第六部分保护与安全介绍了操作系统中对文件、内存、CPU及其他资源进行操作的安全与保护机制。第七部分案例研究，分析与讨论了Linux系统、Windows 2000、WindowsXP、FreeBSD、Mach及Nachos等实例。&lt;/p&gt;</dc:description>
+        <dc:publisher>高等教育出版社</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">1230420</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">DqZiAAAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787040133011</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>操作系统</dc:subject>
+        <meta content="{&quot;Greg Gagne&quot;: &quot;&quot;, &quot;Peter Baer Galvin&quot;: &quot;&quot;, &quot;Abraham Silberschatz&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="操作系统" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2013-06-04T13:07:57+00:00" name="calibre:timestamp"/>
+        <meta content="操作系统概念" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

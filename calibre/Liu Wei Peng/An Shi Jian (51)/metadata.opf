@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a6f14461-bd54-40b4-bf60-1e1c4a7b1051</dc:identifier>
+        <dc:title>暗时间</dc:title>
+        <dc:creator opf:file-as="刘未鹏" opf:role="aut">刘未鹏</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;2003年，刘未鹏在杂志上发表了自己的第一篇文章，并开始写博客。最初的博客较短，也较琐碎，并夹杂着一些翻译的文章。后来渐渐开始有了一些自己的心得和看法。总体上在这8年里，作者平均每个月写1篇博客或更少，但从未停止。&lt;br&gt;刘未鹏说——&lt;br&gt;写博客这件事情给我最大的体会就是，一件事情如果你能够坚持做8年，那么不管效率和频率多低，最终总能取得一些很可观的收益。而另一个体会就是，一件事情只要你坚持得足够久，“坚持”就会慢慢变成“习惯”。原本需要费力去驱动的事情便成了家常便饭，云淡风轻。&lt;br&gt;这本书便是从刘未鹏8年的博客文章中精选出来的，主要关于心智模式、学习方法和时间利用，《暗时间》的书名便来自于此。&lt;/p&gt;</dc:description>
+        <dc:publisher>电子工业出版社</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">6709809</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">x_6itwAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787121140068</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>心智</dc:subject>
+        <meta content="{&quot;刘未鹏&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="时间管理" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-06-04T12:52:56+00:00" name="calibre:timestamp"/>
+        <meta content="暗时间" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">79</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2f853313-d320-40d7-8b26-69b626511ac2</dc:identifier>
+        <dc:title>尘世·挽歌</dc:title>
+        <dc:creator opf:file-as="野夫" opf:role="aut">野夫</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;尘世·挽歌，ISBN：9787802258990，作者：野夫 著，出版社：新星出版社&lt;/p&gt;</dc:description>
+        <dc:publisher>新星出版社</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">4809777</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">GJYHYAAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787802258990</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;野夫&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="文学" name="calibre:series"/>
+        <meta content="4" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-06-04T13:08:12+00:00" name="calibre:timestamp"/>
+        <meta content="尘世·挽歌" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">acb13b9f-70a2-48f5-9e60-2db519af4fff</dc:identifier>
+        <dc:title>把时间当作朋友</dc:title>
+        <dc:creator opf:file-as="李笑来" opf:role="aut">李笑来</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;《把时间当作朋友:运用心智获得解放》内容简介：无论是谁，都最终在某一刻意识到时间的珍贵，并且几乎注定会因懂事太晚而多少有些后悔。病了要投医，病急了就很可能乱投医。可是书店里各种各样的关于“时间管理”的书籍多半于事无补——至少这是我自己的经验。一方面是束手无策，另一方面是时间无情地流逝，恶性循环早已经形成：要做的事情越来越多，可用的时间越来越少；而因此时间越来越珍贵，时间越来越紧迫；时间越珍贵就越紧迫，时间越紧迫就越珍贵……压力越来越大，生活成了一团乱麻。&lt;/p&gt;</dc:description>
+        <dc:publisher>电子工业出版社</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">5171244</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787121115028</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>心智</dc:subject>
+        <dc:subject>时间管理</dc:subject>
+        <meta content="{&quot;李笑来&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="时间管理" name="calibre:series"/>
+        <meta content="6" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-06-04T13:00:11+00:00" name="calibre:timestamp"/>
+        <meta content="把时间当作朋友" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">63</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">741b06c7-6948-422e-b6a0-cbd9a8362865</dc:identifier>
+        <dc:title>Pragmatic Version Control: Using Subversion</dc:title>
+        <dc:creator opf:file-as="Mason, Mike" opf:role="aut">Mike Mason</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-06-06T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;Mike Mason is an Agile Architect with ThoughtWorks where he builds mission critical systems for Fortune 500 clients. Mike has been using Subversion for more than eight years and he has watched it evolve from an excellent-but-niche tool to being an enterprise standard in version control. Mike is the author of Pragmatic Version Control using Subversion.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Pragmatic Bookshelf</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0977616657</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780977616657</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>svn</dc:subject>
+        <meta content="{&quot;Mike Mason&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="version_control" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-06-04T13:02:50+00:00" name="calibre:timestamp"/>
+        <meta content="Pragmatic Version Control: Using Subversion" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

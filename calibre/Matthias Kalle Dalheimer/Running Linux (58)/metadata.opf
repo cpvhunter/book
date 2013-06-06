@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">58</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1ea0385f-6039-4f98-b2e0-63fc492895de</dc:identifier>
+        <dc:title>Running Linux</dc:title>
+        <dc:creator opf:file-as="Dalheimer, Matthias Kalle &amp; Welsh, Matt" opf:role="aut">Matthias Kalle Dalheimer</dc:creator>
+        <dc:creator opf:file-as="Dalheimer, Matthias Kalle &amp; Welsh, Matt" opf:role="aut">Matt Welsh</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-12-21T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;You may be contemplating your first Linux installation. Or you may have been using Linux for years and need to know more about adding a network printer or setting up an FTP server. Running Linux, now in its fifth edition, is the book you'll want on hand in either case. Widely recognized in the Linux community as the ultimate getting-started and problem-solving book, it answers the questions and tackles the configuration issues that frequently plague users, but are seldom addressed in other books. This fifth edition of Running Linux is greatly expanded, reflecting the maturity of the operating system and the teeming wealth of software available for it. Hot consumer topics such as audio and video playback applications, groupware functionality, and spam filtering are covered, along with the basics in configuration and management that always have made the book popular. Running Linux covers basic communications such as mail, web surfing, and instant messaging, but also delves into the subtleties of network configuration--including dial-up, ADSL, and cable modems--in case you need to set up your network manually. The book can make you proficient on office suites and personal productivity applications--and also tells you what programming tools are available if you're interested in contributing to these applications. Other new topics in the fifth edition include encrypted email and filesystems, advanced shell techniques, and remote login applications. Classic discussions on booting, package management, kernel recompilation, and X configuration have also been updated. The authors of Running Linux have anticipated problem areas, selected stable and popular solutions, and provided clear instructions to ensure that you'll have a satisfying experience using Linux. The discussion is direct and complete enough to guide novice users, while still providing the additional information experienced users will need to progress in their mastery of Linux. Whether you're using Linux on a home workstation or maintaining a network server, Running Linux will provide expert advice just when you need it.&lt;/p&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">1766581</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B0043EWUNE</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780596007607</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>linux</dc:subject>
+        <meta content="{&quot;Matt Welsh&quot;: &quot;&quot;, &quot;Matthias Kalle Dalheimer&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="操作系统" name="calibre:series"/>
+        <meta content="4" name="calibre:series_index"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2013-06-04T13:01:45+00:00" name="calibre:timestamp"/>
+        <meta content="Running Linux" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

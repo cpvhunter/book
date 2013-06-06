@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a8444b90-6b18-43ad-bb78-8b36a5849bdc</dc:identifier>
+        <dc:title>Data Structures and Algorithm Analysis in C++</dc:title>
+        <dc:creator opf:file-as="Weiss, Mark Allen" opf:role="aut">Mark Allen Weiss</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-06-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Data Structures and Algorithm Analysis in C++ is an advanced algorithms book that bridges the gap between traditional CS2 and Algorithms Analysis courses. As the speed and power of computers increases, so does the need for effective programming and algorithm analysis. By approaching these skills in tandem, Mark Allen Weiss teaches readers to develop well-constructed, maximally efficient programs using the C++ programming language.  This book explains topics from binary heaps to sorting to NP-completeness, and dedicates a full chapter to amortized analysis and advanced data structures and their implementation. Figures and examples illustrating successive stages of algorithms contribute to Weiss' careful, rigorous and in-depth analysis of each type of algorithm.&lt;/p&gt;</dc:description>
+        <dc:identifier opf:scheme="DOUBAN">11714581</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780132847377</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>data_structure</dc:subject>
+        <meta content="{&quot;Mark Allen Weiss&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-06-04T13:00:28+00:00" name="calibre:timestamp"/>
+        <meta content="Data Structures and Algorithm Analysis in C++" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

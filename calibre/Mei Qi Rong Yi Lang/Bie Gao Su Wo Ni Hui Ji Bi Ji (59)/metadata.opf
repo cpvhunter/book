@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">59</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3b501171-e694-4a5a-948c-0891cacd680f</dc:identifier>
+        <dc:title>别告诉我你会记笔记</dc:title>
+        <dc:creator opf:file-as="美崎荣一郎" opf:role="aut">美崎荣一郎</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;《别告诉我你会记笔记》内容简介：职场上，成功的人总是把失败的经验写在笔记本上，然后重新出发；追求成果的人总在积极改变工作习惯，善用笔记本“捕获”升级加薪的机会；注重自我投资的人不会让时间和金钱白白溜走，学以致用只为成就梦想。 &lt;br&gt;《别告诉我你会记笔记》告诉我们，职场达人和普通人的最大差别在于做工作笔记的方法！奥运会选手有以往成绩可循，才能一再破纪录；金牌销售员妙用笔记本管理客户关系，业绩才能屡创新高；策划经理靠笔记本记录灵感，品牌影响力才能经久不衰…… &lt;br&gt;作者独创“金三角笔记法”——记事笔记本＋航母笔记本＋行程笔记本。他认为，工作笔记不同于学生时代的课堂笔记，课堂笔记是为了“记忆”，而工作笔记是为了“遗忘”，“烂笔头”式面面俱到的笔记法不再适用，技巧与效率兼备的超级笔记法才是职场达人的必杀技。 &lt;br&gt;你上谷歌搜索，只能找到别人的经验，唯有自己的笔记本，才是专属于你的资历累积。千万不要小看工作笔记，不论成功或失败，全部记下来，你会有意想不到的人生礼物！&lt;/p&gt;</dc:description>
+        <dc:publisher>中信出版社</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">6077688</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787508627335</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>笔记</dc:subject>
+        <meta content="{&quot;美崎荣一郎&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="时间管理" name="calibre:series"/>
+        <meta content="4" name="calibre:series_index"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2013-06-04T13:01:53+00:00" name="calibre:timestamp"/>
+        <meta content="别告诉我你会记笔记" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">86</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">27000edd-02cf-41f5-90b4-cd93020fc9bb</dc:identifier>
+        <dc:title>JavaScript设计模式</dc:title>
+        <dc:creator opf:file-as="Harmes, Ross &amp; Diaz, Dustin" opf:role="aut">Ross Harmes</dc:creator>
+        <dc:creator opf:file-as="Harmes, Ross &amp; Diaz, Dustin" opf:role="aut">Dustin Diaz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-06-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;本书共有两部分。第一部分给出了实现具体设计模式所需要的面向对象特性的基础知识，主要包括接口、封装和信息隐藏、继承、单体模式等内容。第二部分则专注于各种具体的设计模式及其在JavaScript语言中的应用，主要介绍了工厂模式、桥接模式、组合模式、门面模式等几种常见的模式。为了让每一章中的示例都尽可能地贴近实际应用，书中同时列举了一些JavaScript 程序员最常见的任务，然后运用设计模式使其解决方案变得更模块化、更高效并且更易维护，其中较为理论化的例子则用于阐明某些要点。.&lt;br&gt;本书适合各层次的Web 前端开发人员阅读和参考，也适合有C++/Java/C# 背景的服务器端程序员学习。..&lt;/p&gt;</dc:description>
+        <dc:publisher>人民邮电出版社</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">3329540</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">QB9iQgAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787115191281</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>javascript</dc:subject>
+        <dc:subject>设计模式</dc:subject>
+        <meta content="{&quot;Dustin Diaz&quot;: &quot;&quot;, &quot;Ross Harmes&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-06-05T01:54:08+00:00" name="calibre:timestamp"/>
+        <meta content="JavaScript设计模式" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">80</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">692ca757-ef7b-48b9-8212-5fdbad14e0ab</dc:identifier>
+        <dc:title>论教育学</dc:title>
+        <dc:creator opf:file-as="伊曼努尔・康德" opf:role="aut">伊曼努尔・康德</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-05-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;《论教育学》和《系科之争》是康德的两部与教育有关的著作：前者是他在柯尼斯堡大学讲授教育学的讲义，后者则是他在不同时期撰写的三篇论文的集合，内容主要是讨论大学中哲学（康德这里指广义的以理性知识本身为目的的理论研究）与实用学科（以及知识界与政府）的关系。这两部作品是我们了解康德教育思想的基本材料。&lt;/p&gt;</dc:description>
+        <dc:publisher>上海世纪出版社</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">1315240</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787208054592</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>哲学</dc:subject>
+        <dc:subject>教育学</dc:subject>
+        <meta content="{&quot;伊曼努尔・康德&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-06-04T13:08:23+00:00" name="calibre:timestamp"/>
+        <meta content="论教育学" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

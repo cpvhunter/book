@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a999270c-1327-4211-9c3d-35edcf35b4d7</dc:identifier>
+        <dc:title>Powerful Sleep</dc:title>
+        <dc:creator opf:file-as="Postawski, Kacper M." opf:role="aut">Kacper M. Postawski</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-06-04T12:51:08+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;有没有可能只睡 444，555 个小时却比睡 888，999 个小时或更久更精力充沛，精神焕发呢？&lt;br&gt;当然可能！尽管这本书很薄，不过却相当有用，千万不要小瞧它。这本书传递了一些使&lt;br&gt;生活质量更高的信息，这些信息可能粉碎你原有的对于睡眠的认识，而且给你一些可以用来&lt;br&gt;改变生活的知识。如果能照着书里说的做，你可以达到以下几个目标：&lt;br&gt;1) 缩短睡眠时间&lt;br&gt;2) 提高睡眠质量&lt;br&gt;3) 精力更充沛&lt;br&gt;4) 消除白天的困意，并能集中注意力&lt;br&gt;5) 减少日常压力&lt;br&gt;想象一下，这将给你的生活带来怎样翻天覆地的变化；再想象一下，如果你睡觉的时间&lt;br&gt;可以减少到以前的一半，那能够多做多少事。正所谓“一寸光阴一寸金，寸金难买寸光阴”。&lt;br&gt;或者设想一下在睡觉时间不变，但是精力比以往更充沛的情况下又能多做些什么？。&lt;/p&gt;</dc:description>
+        <dc:publisher>Dc Comics</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">2458027</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781563896712</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>时间管理</dc:subject>
+        <meta content="{&quot;Kacper M. Postawski&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="时间管理" name="calibre:series"/>
+        <meta content="7" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-06-04T12:51:08+00:00" name="calibre:timestamp"/>
+        <meta content="Powerful Sleep" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

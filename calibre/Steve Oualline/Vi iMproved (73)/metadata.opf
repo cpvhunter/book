@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">73</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cf9419b1-85e3-4c49-b241-dc6864f103d2</dc:identifier>
+        <dc:title>Vi iMproved</dc:title>
+        <dc:creator opf:file-as="Oualline, Steve" opf:role="aut">Steve Oualline</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-04-10T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Real Linux users don't use GUIs. No matter how popular, slick and sophisticated the interfaces become for Linux and UNIX, you'll always need to be able to navigate in a text editor. The vi editor is the original standard UNIX full screen editor. It's been around almost since UNIX began and it has changed very little. To get around the limitations of vi the people at Bram Moolenaar created the vim editor (the name stand for VI iMproved). It contains many more features than the old vi editor including: help, multiple windows, syntax highlighting, programmer support, and HTML support. All of the books published to date focus on vi alone not the expanded vim shipping with every major Linux distribution. In true New Riders' form, the vim reference will be a definitive, concise reference for the professional Linux user and developer. This tutorial takes a task oriented approach allowing you to learn only the commands that make your job easier.&lt;/p&gt;</dc:description>
+        <dc:publisher>Sams</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">1432343</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780735710016</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>vim</dc:subject>
+        <meta content="{&quot;Steve Oualline&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="vim" name="calibre:series"/>
+        <meta content="5" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-06-04T13:06:01+00:00" name="calibre:timestamp"/>
+        <meta content="Vi iMproved" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

@@ -12,7 +12,8 @@
         <dc:identifier opf:scheme="DOUBAN">1151672</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9787302080725</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>代码规范</dc:subject>
+        <dc:subject>C</dc:subject>
+        <dc:subject>代码阅读</dc:subject>
         <meta content="{&quot;Diomidis Spinellis&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="编程素养" name="calibre:series"/>
         <meta content="4" name="calibre:series_index"/>

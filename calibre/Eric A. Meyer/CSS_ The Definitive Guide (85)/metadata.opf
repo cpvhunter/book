@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">85</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7aa923d3-21e1-45af-8f06-d48af2740952</dc:identifier>
+        <dc:title>CSS: The Definitive Guide</dc:title>
+        <dc:creator opf:file-as="Meyer, Eric A." opf:role="aut">Eric A. Meyer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-29T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;Eric A. Meyer has been working with the Web since late 1993 and is an internationally recognized expert on the subjects of HTML, CSS, and web standards. A widely read author, he is also the founder of Complex Spiral Consulting (www.complexspiral.com), which counts among its clients America Online; Apple Computer, Inc.; Wells Fargo Bank; and Macromedia, which described Eric as "a critical partner in our efforts to transform Macromedia Dreamweaver MX 2004 into a revolutionary tool for CSS-based design."&lt;/p&gt;&lt;p&gt;Beginning in early 1994, Eric was the visual designer and campus web coordinator for the Case Western Reserve University web site, where he also authored a widely acclaimed series of three HTML tutorials and was Project Coordinator for the online version of the Encyclopedia of Cleveland History and the Dictionary of Cleveland Biography, the first encyclopedia of urban history published fully and freely on the Web.&lt;/p&gt;&lt;p&gt;Author of Eric Meyer on CSS and More Eric Meyer on CSS (New Riders), Cascading Style Sheets: The Definitive Guide (O'Reilly), and CSS2.0 Programmer's Reference (Osborne/McGraw-Hill), as well as numerous articles for the O'Reilly Network, Web Techniques, and Web Review, Eric also created the CSS Browser Compatibility Charts and coordinated the authoring and creation of the W3C's official CSS Test Suite. He has lectured to a wide variety of organizations, including Los Alamos National Laboratory, the New York Public Library, Cornell University, and the University of Northern Iowa. Eric has also delivered addresses and technical presentations at numerous conferences, among them An Event Apart (which he cofounded), the IW3C2 WWW series, Web Design World, CMP, SXSW, the User Interface conference series, and The Other Dreamweaver Conference.&lt;/p&gt;&lt;p&gt;In his personal time, Eric acts as List Chaperone of the highly active css-discuss mailing list (www.css-discuss.org), which he cofounded with John Allsopp of Western Civilisation and which is now supported by evolt.org. Eric lives in Cleveland, Ohio, which is a much nicer city than you've been led to believe. For nine years, he was the host of "Your Father's Oldsmobile," a Big Band-era radio show heard weekly on WRUW 91.1 FM in Cleveland.&lt;/p&gt;&lt;p&gt;You can find more detailed information on Eric's personal web page at http://www.meyerweb.com/eric.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B00457X7L8</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">rdtCRLXAL78C</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">0596527330</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>css</dc:subject>
+        <meta content="{&quot;Eric A. Meyer&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="前端技术" name="calibre:series"/>
+        <meta content="14" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-06-05T01:54:08+00:00" name="calibre:timestamp"/>
+        <meta content="CSS: The Definitive Guide" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">65</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c4633df0-b9ea-469a-bf13-d2de257b40d0</dc:identifier>
+        <dc:title>软件调试的艺术</dc:title>
+        <dc:creator opf:file-as="Matloff, Norman &amp; Salzman, Peter Jay" opf:role="aut">Norman Matloff</dc:creator>
+        <dc:creator opf:file-as="Matloff, Norman &amp; Salzman, Peter Jay" opf:role="aut">Peter Jay Salzman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-11-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;调试对于软件的成败至关重要，正确使用恰当的调试工具可以提高发现和改正错误的效率。《软件调试的艺术》详细介绍了3种调试器，GDB用于逐行跟踪程序、设置断点、检查变量以及查看特定时间程序的执行情况，DDD是流行的GDB的GUI前端，而Eclipse提供完整的集成开发环境。书中不但配合实例讨论了如何管理内存、理解转储内存、跟踪程序找出错误等内容，更涵盖了其他同类书忽略的主题，例如线程、客户／服务器、GUI和并行程序，以及如何躲开常见的调试陷阱。&lt;br&gt;《软件调试的艺术》适合各层次软件开发人员、管理人员和测试人员阅读。&lt;/p&gt;</dc:description>
+        <dc:publisher>人民邮电出版社</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">4111413</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787115213969</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>C</dc:subject>
+        <dc:subject>debug</dc:subject>
+        <meta content="{&quot;Norman Matloff&quot;: &quot;&quot;, &quot;Peter Jay Salzman&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2013-06-04T13:03:34+00:00" name="calibre:timestamp"/>
+        <meta content="软件调试的艺术" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

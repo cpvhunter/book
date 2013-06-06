@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">74</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e4e15fdf-9e95-45ae-af45-429460197745</dc:identifier>
+        <dc:title>How to Do Everything With JavaScript</dc:title>
+        <dc:creator opf:file-as="Duffy, Scott" opf:role="aut">Scott Duffy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-02-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;h3&gt;From the Back Cover&lt;/h3&gt;&lt;p&gt;Bring interactivity to any Web site with this easy-to-follow guidebook on JavaScript. Author Scott Duffy takes the fear out of working with a programming language by delivering instruction and theory in manageable doses, along with practical examples and plenty of ready-to-use code. Learn to write a program by exploring statements, variables, and functions--the three basic building blocks of any program. Use JavaScript as the behind-the-scenes director of your Web browser presentation. Create basic and advanced JavaScript applications--plus, modify existing scripts to suit your needs--all with the help of this great resource.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Write your own program using statements, variables, and functions &lt;/li&gt;&lt;li&gt;Learn the history of the language and what it can do for you &lt;/li&gt;&lt;li&gt;Enable movement and interactivity for your Web site &lt;/li&gt;&lt;li&gt;Determine which version of JavaScript is right for you &lt;/li&gt;&lt;li&gt;Store dates, numbers, and more with built-in classes &lt;/li&gt;&lt;li&gt;Create scripts that work in every browser &lt;/li&gt;&lt;li&gt;Understand the basics of expressions, and organize your code into functions &lt;/li&gt;&lt;li&gt;Cause text or graphics to change on mouse rollovers &lt;/li&gt;&lt;li&gt;Automatically change a formatted date on a Web page &lt;/li&gt;&lt;li&gt;Coordinate objects and events seamlessly with built-in or scripted classes &lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;Scott Duffy (Toronto, Ontario) MCSD, Sun Java 2 SCJP, CIW Associate, has eleven years of professional software design and development experience including having spent five of the past six years on web-based application development. He has written several books including "How to Do Everything with JavaScript" published by Osborne McGraw-Hill in 2002. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>McGraw-Hill Education</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">1693206</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0072228873</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">pTBvQgAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780072228878</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>javascript</dc:subject>
+        <dc:subject>debug</dc:subject>
+        <meta content="{&quot;Scott Duffy&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="前端技术" name="calibre:series"/>
+        <meta content="12" name="calibre:series_index"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2013-06-04T13:06:11+00:00" name="calibre:timestamp"/>
+        <meta content="How to Do Everything With JavaScript" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">61</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a2124105-0ae6-408b-9a06-ed642fe00109</dc:identifier>
+        <dc:title>Learning PHP and MySQL</dc:title>
+        <dc:creator opf:file-as="Davis, Michele E. &amp; Phillips, Jon A." opf:role="aut">Michele E. Davis</dc:creator>
+        <dc:creator opf:file-as="Davis, Michele E. &amp; Phillips, Jon A." opf:role="aut">Jon A. Phillips</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-02-08T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;The PHP scripting language and MySQL open source database are quite effective independently, but together they make a simply unbeatable team. When working hand-in-hand, they serve as the standard for the rapid development of dynamic, database-driven websites. This combination is so popular, in fact, that it's attracting many programming newbies who come from a web or graphic design background and whose first language is HTML. If you fall into this ever-expanding category, then this book is for you.  Learning PHP and MySQL starts with the very basics of the PHP language, including strings and arrays, pattern matching and a detailed discussion of the variances in different PHP versions. Next, it explains how to work with MySQL, covering information on SQL data access for language and data fundamentals like tables and statements. Finally, after it's sure that you've mastered these separate concepts, the book shows you how to put them together to generate dynamic content. In the process, you'll also learn about error handling, security, HTTP authentication, and more.   If you're a hobbyist who is intimidated by thick, complex computer books, then this guide definitely belongs on your shelf. Learning PHP and MySQL explains everything--from basic concepts to the nuts and bolts of performing specific tasks--in plain English.   Part of O'Reilly's bestselling Learning series, the book is an easy-to-use resource designed specifically for newcomers. It's also a launching pad for future learning, providing you with a solid foundation for more advanced development.&lt;/p&gt;</dc:description>
+        <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">ETz0v9ejfMAC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780596553500</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>mysql</dc:subject>
+        <dc:subject>php</dc:subject>
+        <meta content="{&quot;Michele E. Davis&quot;: &quot;&quot;, &quot;Jon A. Phillips&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2013-06-04T13:02:29+00:00" name="calibre:timestamp"/>
+        <meta content="Learning PHP and MySQL" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

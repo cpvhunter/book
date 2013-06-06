@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e64ff2ca-525b-4d99-84cc-895f1a2cc346</dc:identifier>
+        <dc:title>费曼的彩虹</dc:title>
+        <dc:creator opf:file-as="里昂纳德·曼罗迪诺" opf:role="aut">里昂纳德·曼罗迪诺</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-01-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;《费曼的彩虹：物理大师的最后24堂课》满载费曼对于人生的各种思考，也记录了他在最后旅程中对现今物理学界重要理论“弦理论”的研究。是一本心灵上与知识上同等丰富的书。侧写现代爱因斯坦、二十世纪传奇物理学家费曼人生最后几年的故事。一九八一年冬天，一个正努力寻找自我定位的年轻物理学家，与来日无多的物理大师费曼展开了长达两年的深入对话。在关于科学、关于人生的思索中，绽现了二十世纪传奇科学家费曼最后的智慧之光。&lt;/p&gt;</dc:description>
+        <dc:publisher>陕西师范大学出版社</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">2002938</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787561337127</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>physics</dc:subject>
+        <dc:subject>科普</dc:subject>
+        <dc:subject>费曼</dc:subject>
+        <meta content="{&quot;里昂纳德·曼罗迪诺&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="费曼" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-06-04T12:52:01+00:00" name="calibre:timestamp"/>
+        <meta content="费曼的彩虹" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

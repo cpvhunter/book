@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a24f869d-d8bb-4bca-a97e-bbf549a83ec8</dc:identifier>
+        <dc:title>学习之道</dc:title>
+        <dc:creator opf:file-as="Waitzkin, Josh" opf:role="aut">Josh Waitzkin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;本书2008年第一版题名为《学习的艺术》，亦使用同一ISBN。&lt;/p&gt;</dc:description>
+        <dc:publisher>中国青年出版社</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">2345548</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787500679240</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>教育学</dc:subject>
+        <meta content="{&quot;Josh Waitzkin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-06-04T12:51:09+00:00" name="calibre:timestamp"/>
+        <meta content="学习之道" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

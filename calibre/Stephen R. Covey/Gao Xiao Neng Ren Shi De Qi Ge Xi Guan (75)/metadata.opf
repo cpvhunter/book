@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">75</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fd7c0491-ef9b-4e06-9b45-5bfd47dd44a8</dc:identifier>
+        <dc:title>高效能人士的七个习惯</dc:title>
+        <dc:creator opf:file-as="Covey, Stephen R." opf:role="aut">Stephen R. Covey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-05-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;史蒂芬・柯维（Stephen R.Covey）哈佛大学企业管理硕士，杨百翰大学博士。他是柯维领导中心的创始人，也是富兰克林柯维公司（Franklin Covey）的联合主席，曾协助众多企业、教育单位与政府机关培训领导人才。柯维博士曾被《时代》杂志誉为“人类潜能的导师”，并入选为全美二十五位最有影响力的人物之一。在领导理论，家庭与人际关系，个人管理等领域久负盛名。本书自出书以来，高居美国畅销书排行榜长达七年，在全球七十个国家以二十八种语言发行共超过一亿册。　　富兰克林柯维公司是为组织和个人提供培训和管理咨询的世界顶尖级公司，与财富（Fortune）500强中80%以上的公司和成千上万个中小型企业以及政府职能部门都有建设性的合作关系。　　富兰克林柯维公司的服务与产品遍布全球，在全球38个国家设有44个分支机构。 关于本书　　企业领导人都知道：只有每一位员工成为高效能人士，企业才会真正成高效率企业。　　这本书几乎覆盖所有美国成年人，它是美国成年人中最具影响力的书。　　一个强大的美国是由每一位高效能的美国人决定的，不能不说与这本书有重要的关系。 FrankinCovey富兰克林柯维公司简介　　　当您阅读完《高效能人士的七个习惯》（The 7 Habits of Highly Effective People）这本书后，是否希望获得更多的学习资讯，与更多的职业经理人探讨成功的心得？富兰克林柯维公司的培训《高效能人士的七个习惯》使您更加深入地了解书中的理论，彻底地改变思维模式，从而为您走得成功之路奠定坚实的基础。　　富兰克林柯维公司擅长于通过使用先进的培训方法和系统、完善的内容帮助个人和组织提高效能，其最著名的课程《高效能人士的七个习惯》就源于史蒂芬・柯维（Stephen R.Covey）的同名著作。它所传授的内容不是某种流行时尚或管理技巧，而是经过时间的考验并且能够指导行为的基本原则。通过彻底思维的改变达到行为的改变从而加强了组织内部的管理机制、培养组织内部的共同语言和价值观；在全球每年有七十五万人次参加富兰克林柯维公司的培训，而该公司也因其优异表现连续五年入选中国三大培训公司，并在2000年被《China Staff》（中国人事杂志）评为中国最杰出的培训公司。&lt;/p&gt;</dc:description>
+        <dc:publisher>中国青年出版社</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">1048007</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787500649038</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>时间管理</dc:subject>
+        <meta content="{&quot;Stephen R. Covey&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-06-04T13:06:17+00:00" name="calibre:timestamp"/>
+        <meta content="高效能人士的七个习惯" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

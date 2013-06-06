@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">83</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">44fd253d-70b8-4aa4-ab04-6f788fda0851</dc:identifier>
+        <dc:title>陶庵梦忆</dc:title>
+        <dc:creator opf:file-as="張岱 &amp; 史念林 &amp; 劉同軍 &amp; 鈡瑞玲" opf:role="aut">張岱</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-01-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;《陶庵梦忆·西湖梦寻》包括《陶庵梦忆》八卷，是张岱传世作品中最著名的一部。其中所记大多是作者亲身经历过的杂事，将种种世相展现在人们面前，如茶楼酒肆、说书演戏、斗鸡养鸟、放灯迎神以及山水风景、工艺书画等，构成了明代社会生活的一幅风俗画卷，尤其可以说是江浙一带一幅绝妙的“清明上河图”。其中虽有贵族子弟的闲情逸致、浪漫生活，但更多的是社会生活和风俗人情的反映。&lt;br&gt;　　《西湖梦寻》五卷，追记往日西湖之胜，以寄亡明遗老故国哀思。其中虽有袭用明田汝成《西湖游览志》旧文处，但张岱在记录西湖胜景上自具慧眼，远远超过了《西湖游览志》。作者对杭州一带重要的山水景色、佛教寺院、先贤祭祠等进行了全方位的描述，按照总记、北路、西路、中路、南路、外景的空间顺序依次写来，把杭州的古与今展现在读者面前。尤为重要的是，作者在每则记事之后选录先贤时人的诗文若干首（篇），更使山水增辉。这些诗文集中起来，就是一部西湖诗文选。在七十二则记事中，有不少有关寺院兴废之事，可以给研究佛教者提供丰富的资料。&lt;br&gt;    从散文创作看，张岱处在晚明时期，深受“公安派”和“竟陵派”的影响。但又能兼采众长，形成自己独特的风格。他在《琅嬛诗集自序》中说：“余少喜文长，遂学文长诗。因中郎喜文长，而并学喜文长之中郎诗。文长、中郎以前无学也。后喜钟、谭诗，复欲学钟、谭诗，而鹿鹿无暇。……予乃始知自悔，举向所为似文长者悉烧之，而涤胃刮肠，非钟、谭则一字不敢置笔。刻苦十年，乃向所为学钟、谭者又复不似。”公安三袁主张“独抒性灵，不拘格套，非从自己胸臆中流出，不肯下笔”，竟陵派的钟惺、谭元春又主张“幽情单绪，孤行静寄”，即作品要有含蓄幽深之美，要有作家的个性精神。张岱在创作中融合了这两派的长处，所以成为晚明散文方面最为突出的人物。他的散文清新秀丽，情趣盎然，精雕细琢而无斧凿之痕，具有清水出芙蓉的天然之美。像《陶庵梦忆》中的一百余篇小品文，短的只有百余字，长的五六百字，生动活泼，各具特色，《湖心亭看雪》、《西湖七月半》、《西湖香市》、《柳敬亭说书》、《烟雨楼》等篇，都已是脍炙人口的绝妙文章。&lt;/p&gt;</dc:description>
+        <dc:publisher>华夏出版社</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">1491624</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">pwRrPgAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787508039305</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;張岱&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="文学" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-06-04T13:08:53+00:00" name="calibre:timestamp"/>
+        <meta content="陶庵梦忆" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">72</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f77da572-845d-4c2d-848a-992932696d67</dc:identifier>
+        <dc:title>Pro Git</dc:title>
+        <dc:creator opf:file-as="Chacon, Scott" opf:role="aut">Scott Chacon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-08-26T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Git is the version control system developed by Linus Torvalds for Linux kernel development. It took the open source world by storm since its inception in 2005, and is used by small development shops and giants like Google, Red Hat, and IBM, and of course many open source projects.  A book by Git experts to turn you into a Git expert  Introduces the world of distributed version control  Shows how to build a Git development workflow   What you’ll learn Use Git as a programmer or a project leader Become a fluent Git user Use distributed features of Git to the full Acquire the ability to insert Git in the development workflow Migrate programming projects from other SCMs to Git Learn how to extend Git  Who this book is for  This book is for all open source developers: you are bound to encounter Git somewhere in the course of your working life. Proprietary software developers will appreciate Git’s enormous scalability, since it is used for the Linux project, which comprises thousands of developers and testers.  Table of Contents Getting Started  Git Basics  Git Branching  Git on the Server  Distributed Git  Git Tools  Customizing Git  Git and Other Systems  Git Internals&lt;/p&gt;</dc:description>
+        <dc:publisher>Apress</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">3420144</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1430218339</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">3XcW4oJ8goIC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781430218333</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>git</dc:subject>
+        <meta content="{&quot;Scott Chacon&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="version_control" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-06-04T13:05:46+00:00" name="calibre:timestamp"/>
+        <meta content="Pro Git" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>
