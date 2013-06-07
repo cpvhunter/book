@@ -13,6 +13,7 @@
         <dc:identifier opf:scheme="ISBN">9787121056871</dc:identifier>
         <dc:language>zho</dc:language>
         <dc:subject>javascript</dc:subject>
+        <dc:subject>函数式编程</dc:subject>
         <meta content="{&quot;周爱民&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="前端技术" name="calibre:series"/>
         <meta content="15" name="calibre:series_index"/>

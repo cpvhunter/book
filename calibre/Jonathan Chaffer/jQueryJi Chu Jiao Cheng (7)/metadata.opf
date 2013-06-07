@@ -8,14 +8,13 @@
         <dc:creator opf:file-as="Chaffer, Jonathan &amp; Swedberg, Karl" opf:role="aut">Karl Swedberg</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>2009-11-14T16:00:00+00:00</dc:date>
-        <dc:description>&lt;div&gt;&lt;p class="description"&gt;《jQuery基础教程(第2版)》作为《jQuery基础教程》的升级版，涵盖了jQuery 1.3的全部新特性，特别是新增了介绍jQuery UI（jQuery官方用户界面插件库）的内容。《jQuery基础教程(第2版)》前6章以通俗易懂的方式介绍了jQuery的基本概念，主要包括jQuery的选择符、事件、效果、DOM操作、AJAX支持等。随后3章从理论到实践，通过表格操作、构建功能型表单、实现滑移和翻转效果等实例，深入浅出地讲解了如何创造性地运用jQuery提供的丰富而强大的API。《jQuery基础教程(第2版)》最后两章专门介绍了如何使用和编写jQuery插件。值得一提的是，本版新增的附录D分门别类地列出了所有jQuery API，为高效使用jQuery提供了方便。&lt;br&gt;《jQuery基础教程(第2版)》注重理论与实践相结合，适合初中级Web开发人员阅读和参考。&lt;/p&gt;
-&lt;p class="description"&gt;  点击链接进入新版：  jQuery基础教程(第3版)&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:description>&lt;div&gt;英文版：  learning jquery&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;已下载第三版，jquery版本之间变动比较大，目前使用的是 1.9&lt;/div&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>人民邮电出版社</dc:publisher>
         <dc:identifier opf:scheme="DOUBAN">4111399</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9787115215420</dc:identifier>
         <dc:language>zho</dc:language>
         <dc:subject>javascript</dc:subject>
-        <dc:subject>jQuery</dc:subject>
+        <dc:subject>jquery</dc:subject>
         <meta content="{&quot;Jonathan Chaffer&quot;: &quot;&quot;, &quot;Karl Swedberg&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="前端技术" name="calibre:series"/>
         <meta content="4" name="calibre:series_index"/>

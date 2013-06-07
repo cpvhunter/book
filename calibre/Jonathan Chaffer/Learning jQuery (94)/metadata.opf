@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">94</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6ae1980c-344d-4839-9b0e-f3c60426403f</dc:identifier>
+        <dc:title>Learning jQuery</dc:title>
+        <dc:creator opf:file-as="Chaffer, Jonathan &amp; Swedberg, Karl" opf:role="aut">Jonathan Chaffer</dc:creator>
+        <dc:creator opf:file-as="Chaffer, Jonathan &amp; Swedberg, Karl" opf:role="aut">Karl Swedberg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-09-22T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Jonathan Chaffer&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Jonathan Chaffer is a member of Rapid Development Group, a web development firm located in Grand Rapids, Michigan. His work there includes overseeing and implementing projects in a wide variety of technologies, with an emphasis in PHP, MySQL, and JavaScript. He also leads on-site training seminars on the jQuery framework for web developers.&lt;/p&gt;&lt;p&gt;In the open-source community, Jonathan has been very active in the Drupal CMS project, which has adopted jQuery as its JavaScript framework of choice. He is the creator of the Content Construction Kit, a popular module for managing structured content on Drupal sites. He is responsible for major overhauls of Drupal's menu system and developer API reference. Jonathan lives in Grand Rapids with his wife, Jennifer.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Karl Swedberg&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Karl Swedberg is a web developer at Fusionary Media in Grand Rapids, Michigan, where he spends much of his time making cool things happen with JavaScript. As a member of the jQuery team, Karl is responsible for maintaining the jQuery API site at api.jquery.com. He also publishes tutorials on his blog, learningjquery.com, and presents at workshops and conferences. When he isn't coding, Karl likes to hang out with his family, roast coffee in his garage, and exercise at the local cross-fit gym.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">6866346</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1849516545</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781849516549</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>javascript</dc:subject>
+        <dc:subject>jquery</dc:subject>
+        <meta content="{&quot;Jonathan Chaffer&quot;: &quot;&quot;, &quot;Karl Swedberg&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="前端技术" name="calibre:series"/>
+        <meta content="17" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-06-07T01:49:54+00:00" name="calibre:timestamp"/>
+        <meta content="Learning jQuery" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>
