@@ -14,6 +14,7 @@
         <dc:identifier opf:scheme="ISBN">9787115215420</dc:identifier>
         <dc:language>zho</dc:language>
         <dc:subject>javascript</dc:subject>
+        <dc:subject>ajax</dc:subject>
         <dc:subject>jquery</dc:subject>
         <meta content="{&quot;Jonathan Chaffer&quot;: &quot;&quot;, &quot;Karl Swedberg&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="前端技术" name="calibre:series"/>
