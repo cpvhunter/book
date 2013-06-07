@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">96</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3b36f198-78c4-4dfd-83a0-e7747f4812e6</dc:identifier>
+        <dc:title>Ajax in Action</dc:title>
+        <dc:creator opf:file-as="Crane, Dave &amp; Pascarello, Eric" opf:role="aut">Dave Crane</dc:creator>
+        <dc:creator opf:file-as="Crane, Dave &amp; Pascarello, Eric" opf:role="aut">Eric Pascarello</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-10-31T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Web users are getting tired of the traditional web experience. They get frustrated losing their scroll position; they get annoyed waiting for refresh; they struggle to reorient themselves on every new page. And the list goes on. With asynchronous JavaScript and XML, known as "Ajax," you can give them a better experience. Once users have experienced an Ajax interface, they hate to go back. Ajax is new way of thinking that can result in a flowing and intuitive interaction with the user.&lt;br&gt;Ajax in Action helps you implement that thinking—it explains how to distribute the application between the client and the server (hint: use a "nested MVC" design) while retaining the integrity of the system. You will learn how to ensure your app is flexible and maintainable, and how good, structured design can help avoid problems like browser incompatibilities. Along the way it helps you unlearn many old coding habits. Above all, it opens your mind to the many advantages gained by placing much of the processing in the browser. If you are a web developer who has prior experience with web technologies, this book is for you.  &lt;br&gt;What's Inside&lt;br&gt;Ajax principles&lt;br&gt;Why Ajax design patterns matter&lt;br&gt;How to avoid Ajax pitfalls&lt;br&gt;Examples of Ajax in action: type-ahead suggest, live searching using XSL, and many more.&lt;br&gt;Examples using Ajax frameworks: Prototype, Scriptaculous, x and Rico&lt;br&gt;Ajax usability, security, and performance&lt;br&gt;Table of Contents&lt;br&gt;PART 1 RETHINKING THE WEB APPLICATION&lt;br&gt;A new design for the Web, First steps with Ajax, Introducing order to Ajax&lt;br&gt;PART 2 CORE TECHNIQUES&lt;br&gt;PART 3 PROFESSIONAL AJAX&lt;br&gt;The user experience, Security and Ajax, Performance&lt;br&gt;PART 4 AJAX BY EXAMPLE&lt;br&gt;Dynamic double combo, Type-ahead suggest, The enhanced Ajax web portal, Live search using XSLT, Building stand-alone applications with Ajax&lt;/p&gt;</dc:description>
+        <dc:publisher>Manning Publications</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">1432162</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781932394610</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ajax</dc:subject>
+        <meta content="{&quot;Dave Crane&quot;: &quot;&quot;, &quot;Eric Pascarello&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="前端技术" name="calibre:series"/>
+        <meta content="19" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-06-07T13:31:21+00:00" name="calibre:timestamp"/>
+        <meta content="Ajax in Action" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

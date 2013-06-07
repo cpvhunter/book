@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">84</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5a7b7caa-9a47-4733-bf39-d6fe8e00b24a</dc:identifier>
+        <dc:title>JAVASCRIPT语言精髓与编程实践</dc:title>
+        <dc:creator opf:file-as="周爱民" opf:role="aut">周爱民</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-03-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;《JAVASCRIPT语言精髓与编程实践》讲述了JavaScript的语言实现与扩展，主要包括以下三个方面的内容：（1）动态、函数式语言，以及其它语言特性在JavaScript的表现与应用；（2）如何用动态函数式语言的特性来扩展JavaScript的语言特性与框架；（3）如何将JavaScript引擎整合到其它高级语言的开发过程中。&lt;/p&gt;</dc:description>
+        <dc:publisher>电子工业出版社</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">3012828</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">sFquQQAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787121056871</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>javascript</dc:subject>
+        <dc:subject>函数式编程</dc:subject>
+        <meta content="{&quot;周爱民&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="前端技术" name="calibre:series"/>
+        <meta content="15" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-06-04T13:09:02+00:00" name="calibre:timestamp"/>
+        <meta content="JAVASCRIPT语言精髓与编程实践" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

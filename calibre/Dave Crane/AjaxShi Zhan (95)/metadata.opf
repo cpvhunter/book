@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">95</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">14259a17-a67d-4b78-9d85-fada515ef3d7</dc:identifier>
+        <dc:title>Ajax实战</dc:title>
+        <dc:creator opf:file-as="Crane, Dave &amp; Bibeault, Bear &amp; Locke, Tom" opf:role="aut">Dave Crane</dc:creator>
+        <dc:creator opf:file-as="Crane, Dave &amp; Bibeault, Bear &amp; Locke, Tom" opf:role="aut">Bear Bibeault</dc:creator>
+        <dc:creator opf:file-as="Crane, Dave &amp; Bibeault, Bear &amp; Locke, Tom" opf:role="aut">Tom Locke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-08-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Prototype和Scriptaculous是目前广泛应用的Ajax/JavaScript库，可以大大节省开发时间，创建更丰富精彩的用户界面。&lt;br&gt;本书是Ajax技术大师Dave Crane继《Ajax实战》、《Ajax实战：实例详解》之后，与两位世界级Web专家联手打造的又一部力作，广受好评。作者高屋建瓴，深入剖析这两个库的基本特性和技术内幕。整本书只有三百多页，却面面俱到，包含一百多个典型精致并且彼此联系的示例，用于帮助读者快速学习这两个库。你将在作者生动的引导下开发一个基于Web的图片查看器应用，学习Prototype的高级Ajax特性、Scriptaculous特效与控件的添加、拖放操作的实现等，由此掌握如何在实战中灵活应用这两个库。书中深入探讨了Prototype专为JavaScript核心对象类型提供的新特性，并讨论了几个核心库之间的整合。&lt;/p&gt;</dc:description>
+        <dc:publisher>人民邮电出版社</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">3870043</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787115210708</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ajax</dc:subject>
+        <meta content="{&quot;Bear Bibeault&quot;: &quot;&quot;, &quot;Dave Crane&quot;: &quot;&quot;, &quot;Tom Locke&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="前端技术" name="calibre:series"/>
+        <meta content="18" name="calibre:series_index"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2013-06-07T13:29:33+00:00" name="calibre:timestamp"/>
+        <meta content="Ajax实战" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>
