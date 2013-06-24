@@ -13,6 +13,8 @@
         <dc:identifier opf:scheme="ISBN">9787111110910</dc:identifier>
         <dc:language>zho</dc:language>
         <dc:subject>javascript</dc:subject>
+        <dc:subject>dom</dc:subject>
+        <dc:subject>bom</dc:subject>
         <meta content="{&quot;David Flanagan&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="前端技术" name="calibre:series"/>
         <meta content="6" name="calibre:series_index"/>
@@ -21,6 +23,6 @@
         <meta content="JAVASCRIPT权威指南" name="calibre:title_sort"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="封面"/>
+        <reference href="cover.jpg" title="封面" type="cover"/>
     </guide>
 </package>
