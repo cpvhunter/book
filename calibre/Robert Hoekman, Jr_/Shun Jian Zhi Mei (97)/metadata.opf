@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">97</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">499b0639-800e-4f18-9f9d-b9acd336b3af</dc:identifier>
+        <dc:title>瞬间之美</dc:title>
+        <dc:creator opf:file-as="Robert Hoekman, Jr." opf:role="aut">Robert Hoekman, Jr.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-07-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;本书特色：&lt;br&gt;本书通过重现用户面对Web应用时由始至终的完整情境，主要针对Web应用中几乎所有相关元素，例如Search、Screencast、Blog 、Wizard、 RSS、 Rate 、TagCloud 以及Form的布局、交互甚至客服等都提出了值得借鉴的解决方案。具体通过30多个故事轻松自然地带领读者领会设计者如何百分之百地用心传达以创造美好的用户体验。&lt;br&gt;本书适用于信息架构设计师、交互设计师、Web开发人员使用 ，资深设计师可将本书用做汇集了设计方法和思路的参考手册。初级设计师以及Web开发人员则可以按照书中的方法直接使用，找到一条通往用户体验设计的捷径。&lt;br&gt;业界评论：&lt;br&gt;1. 译者评论：&lt;br&gt;翻译这本书其实也是一个学习的过程。乍看上去似乎书里面没什么很新的理论或者概念，但是作者有一种“大拙若巧、顺其自然”的味道，每一个问题点（也就是书中的一个个故事）最后的解决方案都是千锤百炼的结晶。也就是说，如果你不了解UE，只需按他所说的去做就保准没事；如果你有过研究，那么每个方案背后的方法和思路同样值得学习。它是一本好书，值得我向任何人推荐&lt;br&gt;2.专业人士评论：&lt;br&gt;严格来说这不是一本告诉你从头到尾如何设计Web的书，这一点真是太棒了。我们并不需要某人彻头彻尾地驯服我们的方法、我们的原则、以及我们的个性。然而它却是一本激发我们百分之百用心地与用户交流和思考的好书。书中你见不到一行HTML/Javascript/Perl/PHP/Ruby技术代码，作者完全根据自己的亲身经历和设计经验简单直接地告诉我们良好的用户体验，全在于那些完美的“瞬间”。这是一本激发Web设计灵感的枕边小册，值得我们经常翻阅。&lt;/p&gt;</dc:description>
+        <dc:publisher>人民邮电出版社</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">3886044</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787115207678</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>交互设计</dc:subject>
+        <dc:subject>用户体验</dc:subject>
+        <meta content="{&quot;Robert Hoekman, Jr.&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="前端技术" name="calibre:series"/>
+        <meta content="20" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-07-03T02:49:52+00:00" name="calibre:timestamp"/>
+        <meta content="瞬间之美" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>
